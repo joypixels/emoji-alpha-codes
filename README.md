@@ -1,5 +1,7 @@
 # Emoji Alpha Codes
 
+**v.8**
+
 ### WHAT ARE EMOJI ALPHA CODES?
 
 An EAC (some know them as cheat codes, shortnames, or short codes) are emoji keywords wrapped in colons such as :emoji: as an alternative/convenient method to inserting emoij graphics directly into message forms without having to use a separate emoji picker or pasting the emoji unicode.
