@@ -41,7 +41,7 @@ We've included the current list of emoji alpha codes in two formats, json and cs
 “unicode code point”, “name”, "primary alpha code”, “secondary alpha codes”
 ```
 
-##### License
+### LICENSE
 
 *  License: MIT
 *  Complete Legal Terms: http://opensource.org/licenses/MIT
