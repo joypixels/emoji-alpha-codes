@@ -1,6 +1,6 @@
 # Emoji Alpha Codes
 
-**v.8**
+**v.9**
 
 ### WHAT ARE EMOJI ALPHA CODES?
 
@@ -12,7 +12,7 @@ The purpose is to unify various alpha code lists into a single table developers 
 
 Our goal here is to help everyone involved and we appreciate contributions to this list.  Please know we don't recommend the primary EAC's change unless there's a major reason for it.
 
-We've started the version at .8, which is arbitrary.  For each change to the table, we'll increase the version gradually and keep a running change log within this readme file.
+We've started the version at .8, which is arbitrary.  For each change to the table, we'll increase the version gradually and keep a running changelog.
 
 ### THE FILES
 
@@ -38,7 +38,7 @@ We've included the current list of emoji alpha codes in two formats, json and cs
 ##### CSV
 
 ```
-“unicode code point”, “name”, "primary alpha code”, “secondary alpha codes”
+“unicode code point”, “name”, "primary alpha code”, “secondary alpha codes (pipe delimited)”
 ```
 
 ### LICENSE

@@ -452,12 +452,12 @@
     "1f44d": {
       "name": "thumbs up sign",
       "alpha_code": ":thumbsup:",
-      "aliases": [":+1:"]
+      "aliases": [":+1:",":thumbup:"]
   },
     "1f44e": {
       "name": "thumbs down sign",
       "alpha_code": ":thumbsdown:",
-      "aliases": [":-1:"]
+      "aliases": [":-1:",":thumbdown:"]
   },
     "1f44a": {
       "name": "fisted hand sign",
@@ -1372,7 +1372,7 @@
     "1f43e": {
       "name": "paw prints",
       "alpha_code": ":feet:",
-      "aliases": []
+      "aliases": [":paw_prints:"]
   },
     "1f409": {
       "name": "dragon",
@@ -6547,52 +6547,52 @@
     "1f44d-1f3fb": {
       "name": "thumbs up sign tone 1",
       "alpha_code": ":thumbsup_tone1:",
-      "aliases": [":+1_tone1:"]
+      "aliases": [":+1_tone1:",":thumbup_tone1:"]
   },
     "1f44d-1f3fc": {
       "name": "thumbs up sign tone 2",
       "alpha_code": ":thumbsup_tone2:",
-      "aliases": [":+1_tone2:"]
+      "aliases": [":+1_tone2:",":thumbup_tone2:"]
   },
     "1f44d-1f3fd": {
       "name": "thumbs up sign tone 3",
       "alpha_code": ":thumbsup_tone3:",
-      "aliases": [":+1_tone3:"]
+      "aliases": [":+1_tone3:",":thumbup_tone3:"]
   },
     "1f44d-1f3fe": {
       "name": "thumbs up sign tone 4",
       "alpha_code": ":thumbsup_tone4:",
-      "aliases": [":+1_tone4:"]
+      "aliases": [":+1_tone4:",":thumbup_tone4:"]
   },
     "1f44d-1f3ff": {
       "name": "thumbs up sign tone 5",
       "alpha_code": ":thumbsup_tone5:",
-      "aliases": [":+1_tone5:"]
+      "aliases": [":+1_tone5:",":thumbup_tone5:"]
   },
     "1f44e-1f3fb": {
       "name": "thumbs down sign tone 1",
       "alpha_code": ":thumbsdown_tone1:",
-      "aliases": [":-1_tone1:"]
+      "aliases": [":-1_tone1:",":thumbdown_tone1:"]
   },
     "1f44e-1f3fc": {
       "name": "thumbs down sign tone 2",
       "alpha_code": ":thumbsdown_tone2:",
-      "aliases": [":-1_tone2:"]
+      "aliases": [":-1_tone2:",":thumbdown_tone2:"]
   },
     "1f44e-1f3fd": {
       "name": "thumbs down sign tone 3",
       "alpha_code": ":thumbsdown_tone3:",
-      "aliases": [":-1_tone3:"]
+      "aliases": [":-1_tone3:",":thumbdown_tone3:"]
   },
     "1f44e-1f3fe": {
       "name": "thumbs down sign tone 4",
       "alpha_code": ":thumbsdown_tone4:",
-      "aliases": [":-1_tone4:"]
+      "aliases": [":-1_tone4:",":thumbdown_tone4:"]
   },
     "1f44e-1f3ff": {
       "name": "thumbs down sign tone 5",
       "alpha_code": ":thumbsdown_tone5:",
-      "aliases": [":-1_tone5:"]
+      "aliases": [":-1_tone5:",":thumbdown_tone5:"]
   },
     "1f44a-1f3fb": {
       "name": "fisted hand sign tone 1",
