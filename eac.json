@@ -774,12 +774,12 @@
       "alpha_code": ":couple_with_heart:",
       "aliases": []
   },
-    "1f469-2764-1f469": {
+    "1f469-200d-2764-fe0f-200d-1f469": {
       "name": "couple (woman,woman)",
       "alpha_code": ":couple_ww:",
       "aliases": [":couple_with_heart_ww:"]
   },
-    "1f468-2764-1f468": {
+    "1f468-200d-2764-fe0f-200d-1f468": {
       "name": "couple (man,man)",
       "alpha_code": ":couple_mm:",
       "aliases": [":couple_with_heart_mm:"]
@@ -789,12 +789,12 @@
       "alpha_code": ":couplekiss:",
       "aliases": []
   },
-    "1f469-2764-1f48b-1f469": {
+    "1f469-200d-2764-fe0f-200d-1f48b-200d-1f469": {
       "name": "kiss (woman,woman)",
       "alpha_code": ":kiss_ww:",
       "aliases": [":couplekiss_ww:"]
   },
-    "1f468-2764-1f48b-1f468": {
+    "1f468-200d-2764-fe0f-200d-1f48b-200d-1f468": {
       "name": "kiss (man,man)",
       "alpha_code": ":kiss_mm:",
       "aliases": [":couplekiss_mm:"]
@@ -804,72 +804,72 @@
       "alpha_code": ":family:",
       "aliases": []
   },
-    "1f468-1f469-1f467": {
+    "1f468-200d-1f469-200d-1f467": {
       "name": "family (man,woman,girl)",
       "alpha_code": ":family_mwg:",
       "aliases": []
   },
-    "1f468-1f469-1f467-1f466": {
+    "1f468-200d-1f469-200d-1f467-200d-1f466": {
       "name": "family (man,woman,girl,boy)",
       "alpha_code": ":family_mwgb:",
       "aliases": []
   },
-    "1f468-1f469-1f466-1f466": {
+    "1f468-200d-1f469-200d-1f466-200d-1f466": {
       "name": "family (man,woman,boy,boy)",
       "alpha_code": ":family_mwbb:",
       "aliases": []
   },
-    "1f468-1f469-1f467-1f467": {
+    "1f468-200d-1f469-200d-1f467-200d-1f467": {
       "name": "family (man,woman,girl,girl)",
       "alpha_code": ":family_mwgg:",
       "aliases": []
   },
-    "1f469-1f469-1f466": {
+    "1f469-200d-1f469-200d-1f466": {
       "name": "family (woman,woman,boy)",
       "alpha_code": ":family_wwb:",
       "aliases": []
   },
-    "1f469-1f469-1f467": {
+    "1f469-200d-1f469-200d-1f467": {
       "name": "family (woman,woman,girl)",
       "alpha_code": ":family_wwg:",
       "aliases": []
   },
-    "1f469-1f469-1f467-1f466": {
+    "1f469-200d-1f469-200d-1f467-200d-1f466": {
       "name": "family (woman,woman,girl,boy)",
       "alpha_code": ":family_wwgb:",
       "aliases": []
   },
-    "1f469-1f469-1f466-1f466": {
+    "1f469-200d-1f469-200d-1f466-200d-1f466": {
       "name": "family (woman,woman,boy,boy)",
       "alpha_code": ":family_wwbb:",
       "aliases": []
   },
-    "1f469-1f469-1f467-1f467": {
+    "1f469-200d-1f469-200d-1f467-200d-1f467": {
       "name": "family (woman,woman,girl,girl)",
       "alpha_code": ":family_wwgg:",
       "aliases": []
   },
-    "1f468-1f468-1f466": {
+    "1f468-200d-1f468-200d-1f466": {
       "name": "family (man,man,boy)",
       "alpha_code": ":family_mmb:",
       "aliases": []
   },
-    "1f468-1f468-1f467": {
+    "1f468-200d-1f468-200d-1f467": {
       "name": "family (man,man,girl)",
       "alpha_code": ":family_mmg:",
       "aliases": []
   },
-    "1f468-1f468-1f467-1f466": {
+    "1f468-200d-1f468-200d-1f467-200d-1f466": {
       "name": "family (man,man,girl,boy)",
       "alpha_code": ":family_mmgb:",
       "aliases": []
   },
-    "1f468-1f468-1f466-1f466": {
+    "1f468-200d-1f468-200d-1f466-200d-1f466": {
       "name": "family (man,man,boy,boy)",
       "alpha_code": ":family_mmbb:",
       "aliases": []
   },
-    "1f468-1f468-1f467-1f467": {
+    "1f468-200d-1f468-200d-1f467-200d-1f467": {
       "name": "family (man,man,girl,girl)",
       "alpha_code": ":family_mmgg:",
       "aliases": []
@@ -5179,7 +5179,7 @@
       "alpha_code": ":clock1230:",
       "aliases": []
   },
-    "1f441-1f5e8": {
+    "1f441-200d-1f5e8": {
       "name": "eye in speech bubble",
       "alpha_code": ":eye_in_speech_bubble:",
       "aliases": []
