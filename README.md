@@ -1,6 +1,6 @@
 # Emoji Alpha Codes
 
-**v.9**
+**v1.1**
 
 ### WHAT ARE EMOJI ALPHA CODES?
 
@@ -25,12 +25,17 @@ We've included the current list of emoji alpha codes in two formats, json and cs
     "1f600": {
         "name": "grinning face",
         "alpha_code": ":grinning:",
-        "aliases": []
+        "aliases": ""
     },
     "1f642": {
         "name": "slightly smiling face",
         "alpha_code": ":slight_smile:",
-        "aliases": [":slightly_smiling_face:"]
+        "aliases": ":slightly_smiling_face:"
+    },
+    "1f36e": {
+        "name": "custard",
+        "alpha_code": ":custard:",
+        "aliases": ":pudding:|:flan:"
     }
 }
 ```

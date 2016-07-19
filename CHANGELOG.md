@@ -1,6 +1,15 @@
 changelog
 ---------
 
+####1.1 / 2016-07-19
+
+* additions
+  * all of unicode 9
+  * :gay_pride_flag:
+
+* important note
+  * because aliases are pipe-delimited strings, we have removed square bracket encapsulation and replaced with double-quote encapsulation
+
 ####0.9 / 2016-04-05
 
 * additions
