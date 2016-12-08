@@ -1,0 +1,19 @@
+{
+  "name": "emoji-alpha-codes",
+  "version": "1.1.0",
+  "description": "A simple chart of primary and secondary :alphacodes: paired with active emoji unicode code points, pieced together from the creators of http://emojione.com and http://emoji.codes ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ranks/emoji-alpha-codes.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ranks/emoji-alpha-codes/issues"
+  },
+  "homepage": "https://github.com/Ranks/emoji-alpha-codes#readme"
+}
