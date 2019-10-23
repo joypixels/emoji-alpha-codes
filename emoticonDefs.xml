@@ -1,0 +1,1257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Cisco Jabber -->
+<emoticons>
+	<emoticon defaultKey=":)" image="1f642.png" text="Smile" order="1">
+		<alt>:-)</alt>
+		<alt>^_^</alt>
+		<alt>&#x1f642;</alt>
+	</emoticon>
+	<emoticon defaultKey=":(" image="1f641.png" text="Sad" order="2">
+		<alt>:-(</alt>
+		<alt>&#x1f641;</alt>
+	</emoticon>
+	<emoticon defaultKey=":D" image="1f603.png" text="Grin" order="3">
+		<alt>:-D</alt>
+		<alt>&#x1f603;</alt>
+	</emoticon>
+	<emoticon defaultKey=";)" image="1f609.png" text="Wink" order="4">
+		<alt>;-)</alt>
+		<alt>&#x1f609;</alt>
+	</emoticon>
+	<emoticon defaultKey=":o" image="1f62f.png" text="Big surprise" order="5">
+		<alt>:O</alt>
+		<alt>:-o</alt>
+		<alt>:-O</alt>
+		<alt>&#x1f62f;</alt>
+	</emoticon>
+	<emoticon defaultKey=":P" image="1f61c.png" text="Tongue" order="6">
+		<alt>:p</alt>
+		<alt>:-P</alt>
+		<alt>:-p</alt>
+		<alt>&#x1f61c;</alt>
+	</emoticon>
+	<emoticon defaultKey="B)" image="1f60e.png" text="Cool" order="7">
+		<alt>(cool)</alt>
+		<alt>(Cool)</alt>
+		<alt>(COOL)</alt>
+		<alt>B-)</alt>
+		<alt>8-)</alt>
+		<alt>&#x1f60e;</alt>
+	</emoticon>
+	<emoticon defaultKey="&gt;:(" image="1f621.png" text="Angry" order="8">
+		<alt>(angry)</alt>
+		<alt>(Angry)</alt>
+		<alt>(ANGRY)</alt>
+		<alt>&gt;:-(</alt>
+		<alt>&#x1f621;</alt>
+	</emoticon>
+	<emoticon defaultKey=":s" image="1f616.png" text="Undecided" order="9">
+		<alt>:S</alt>
+		<alt>:-s</alt>
+		<alt>:-S</alt>
+		<alt>&#x1f616;</alt>
+	</emoticon>
+	<emoticon defaultKey=":x" image="1f64a.png" text="Secret" order="10">
+		<alt>(secret)</alt>
+		<alt>(Secret)</alt>
+		<alt>(SECRET)</alt>
+		<alt>:X</alt>
+		<alt>:-x</alt>
+		<alt>:-X</alt>
+		<alt>&#x1f64a;</alt>
+	</emoticon>
+	<emoticon defaultKey=":*" image="1f618.png" text="Kiss" order="11">
+		<alt>(kiss)</alt>
+		<alt>(Kiss)</alt>
+		<alt>(KISS)</alt>
+		<alt>:-*</alt>
+		<alt>&#x1f618;</alt>
+	</emoticon>
+	<emoticon defaultKey="0:)" image="1f607.png" text="Angel" order="12">
+		<alt>(angel)</alt>
+		<alt>(Angel)</alt>
+		<alt>(ANGEL)</alt>
+		<alt>0:-)</alt>
+		<alt>o:-)</alt>
+		<alt>O:-)</alt>
+		<alt>o:)</alt>
+		<alt>O:)</alt>
+		<alt>&#x1f607;</alt>
+	</emoticon>
+	<emoticon defaultKey=":!" image="1f62c.png" text="Worried" order="13">
+		<alt>(worried)</alt>
+		<alt>(Worried)</alt>
+		<alt>(WORRIED)</alt>
+		<alt>:-!</alt>
+		<alt>&#x1f62c;</alt>
+	</emoticon>
+	<emoticon defaultKey=":[" image="263a.png" text="Blush" order="14">
+		<alt>(blush)</alt>
+		<alt>(Blush)</alt>
+		<alt>(BLUSH)</alt>
+		<alt>:-[</alt>
+		<alt>&#x263a;</alt>
+	</emoticon>
+	<emoticon defaultKey=":'(" image="1f622.png" text="Crying" order="15">
+		<alt>:'-(</alt>
+		<alt>T_T</alt>
+		<alt>T.T</alt>
+		<alt>&#x1f622;</alt>
+	</emoticon>
+	<emoticon defaultKey=":/" image="1f615.png" text="Unimpressed" order="16">
+		<alt>:-/</alt>
+		<alt>:-\</alt>
+		<alt>:\</alt>
+		<alt>:-|</alt>
+		<alt>:|</alt>
+		<alt>&#x1f615;</alt>
+	</emoticon>
+	<emoticon defaultKey="XD" image="1f604.png" text="LOL" order="17">
+		<alt>=D</alt>
+		<alt>&#x1f604;</alt>
+	</emoticon>
+	<emoticon defaultKey="(*_*)" image="1f60d.png" text="Love at first sight" order="18">
+		<alt>*IN LOVE*</alt>
+		<alt>&#x1f60d;</alt>
+	</emoticon>
+	<emoticon defaultKey=":-B" image="1f913.png" text="Nerd" order="19">
+		<alt>B-|</alt>
+		<alt>8-B</alt>
+		<alt>*8-|</alt>
+		<alt>(nerd)</alt>
+		<alt>(Nerd)</alt>
+		<alt>(NERD)</alt>
+		<alt>&#x1f913;</alt>
+	</emoticon>
+	<emoticon defaultKey="{:o" image="1f62e.png" text="Surprised" order="20">
+		<alt>(:-)</alt>
+		<alt>&#x1f62e;</alt>
+	</emoticon>
+	<emoticon defaultKey=":-{" image="1f636.png" text="Blank" order="21">
+		<alt>:{</alt>
+		<alt>&#x1f636;</alt>
+	</emoticon>
+	<emoticon defaultKey="=.=" image="1f611.png" text="Closed eyes" order="22">
+		<alt>&#x1f611;</alt>
+	</emoticon>
+	<emoticon defaultKey="X-0" image="1f606.png" text="Crazy" order="23">
+		<alt>&#x1f606;</alt>
+	</emoticon>
+	<emoticon defaultKey=":'-)" image="1f602.png" text="Tears of joy" order="24">
+		<alt>&#x1f602;</alt>
+	</emoticon>
+	<emoticon defaultKey="*_*" image="1f633.png" text="Dazed" order="25">
+		<alt>&#x1f633;</alt>
+	</emoticon>
+	<emoticon defaultKey="x_x" image="1f635.png" text="Dead" order="26">
+		<alt>X_X</alt>
+		<alt>&#x1f635;</alt>
+	</emoticon>
+	<emoticon defaultKey="#)" image="1f634.png" text="Sleep" order="28">
+		<alt>|-)</alt>
+		<alt>u_u</alt>
+		<alt>&#x1f634;</alt>
+	</emoticon>
+	<emoticon defaultKey="(&gt;.&lt;)" image="1f62a.png" text="Sleepy" order="29">
+		<alt>(sleepy)</alt>
+		<alt>&#x1f62a;</alt>
+	</emoticon>
+	<emoticon defaultKey=":-+" image="1f626.png" text="Speechless" order="30">
+		<alt>:-#</alt>
+		<alt>&#x1f626;</alt>
+	</emoticon>
+	<emoticon defaultKey=":-I" image="1f610.png" text="Thinking" order="31">
+		<alt>&#x1f610;</alt>
+	</emoticon>
+	<emoticon defaultKey=":-&lt;" image="1f627.png" text="Upset" order="32">
+		<alt>(upset)</alt>
+		<alt>&#x1f627;</alt>
+	</emoticon>
+	<emoticon defaultKey="(:-$" image="1f912.png" text="Sick" order="33">
+		<alt>+o(</alt>
+		<alt>&#x1f912;</alt>
+	</emoticon>
+	<emoticon defaultKey=":present" image="1f381.png" text="Present" order="34">
+		<alt>&#x1f381;</alt>
+	</emoticon>
+	<emoticon defaultKey=":parcel" image="1f4e6.png" text="Parcel" order="35">
+		<alt>&#x1f4e6;</alt>
+	</emoticon>
+	<emoticon defaultKey="(^)" image="1f382.png" text="Cake" order="36">
+		<alt>(cake)</alt>
+		<alt>(Cake)</alt>
+		<alt>(CAKE)</alt>	
+		<alt>&#x1f382;</alt>
+	</emoticon>
+	<emoticon defaultKey="C(_)" image="2615.png" text="Coffee" order="37">
+		<alt>(coffee)</alt>
+		<alt>(Coffee)</alt>
+		<alt>(COFFEE)</alt>
+		<alt>c(_)</alt>
+		<alt>&#x2615;</alt>
+	</emoticon>
+	<emoticon defaultKey="&lt;3" image="2764.png" text="Heart" order="38">
+		<alt>(heart)</alt>
+		<alt>&#x2764;</alt>
+	</emoticon>
+	<emoticon defaultKey="&lt;/3" image="1f494.png" text="Broken Heart" order="39">
+		<alt>(brokenheart)</alt>
+		<alt>&#x1f494;</alt>
+	</emoticon>
+	<emoticon defaultKey="(*)" image="2b50.png" text="Star" order="40">
+		<alt>(star)</alt>
+		<alt>(Star)</alt>
+		<alt>(STAR)</alt>
+		<alt>&#x2b50;</alt>
+	</emoticon>
+	<emoticon defaultKey="(y)" image="1f44d.png" text="Thumbs Up" order="41">
+		<alt>(^-^)b</alt>
+		<alt>=b</alt>
+		<alt>&#x1f44d;</alt>
+	</emoticon>
+	<emoticon defaultKey="(n)" image="1f44e.png" text="Thumbs Down" order="42">
+		<alt>(^-^)p</alt>
+		<alt>=p</alt>
+		<alt>&#x1f44e;</alt>
+	</emoticon>
+	<emoticon defaultKey="(point down)" image="1f447.png" text="Point down" order="43">
+		<alt>(Point Down)</alt>
+		<alt>(pointdown)</alt>
+		<alt>(Pointdown)</alt>
+		<alt>&#x1f447;</alt>
+	</emoticon>
+	<emoticon defaultKey="(point left)" image="1f448.png" text="Point left" order="44">
+		<alt>(Point Left)</alt>
+		<alt>(pointleft)</alt>
+		<alt>(Pointleft)</alt>
+		<alt>&#x1f448;</alt>
+	</emoticon>
+	<emoticon defaultKey="(point up)" image="1f446.png" text="Point up" order="45">
+		<alt>(Point Up)</alt>
+		<alt>(pointup)</alt>
+		<alt>(Pointup)</alt>
+		<alt>&#x1f446;</alt>
+	</emoticon>
+	<emoticon defaultKey="(point right)" image="1f449.png" text="Point right" order="46">
+		<alt>(Point Right)</alt>
+		<alt>(pointright)</alt>
+		<alt>(Pointright)</alt>
+		<alt>&#x1f449;</alt>
+	</emoticon>
+	<emoticon defaultKey="(peace)" image="270c.png" text="Peace" order="47">
+		<alt>(Peace)</alt>
+		<alt>&#x270c;</alt>
+	</emoticon>
+	<emoticon defaultKey="(fist)" image="270a.png" text="Fist" order="48">
+		<alt>(Fist)</alt>
+		<alt>&#x270a;</alt>
+	</emoticon>
+	<emoticon defaultKey="(rockon)" image="1f918.png" text="Rock on" order="49">
+		<alt>(Rockon)</alt>
+		<alt>(RockOn)</alt>
+		<alt>(ROCKON)</alt>
+		<alt>\m/</alt>
+		<alt>&#x1f918;</alt>
+	</emoticon>
+	<emoticon defaultKey="(ok)" image="1f44c.png" text="OK" order="50">
+		<alt>(OK)</alt>
+		<alt>(okay)</alt>
+		<alt>(a ok)</alt>
+		<alt>&#x1f44c;</alt>
+	</emoticon>
+	<emoticon defaultKey="😀" image="1f600.png" order="100" text="grinning face"><alt>:grinning:</alt></emoticon>
+	<emoticon defaultKey="😁" image="1f601.png" order="102" text="grinning face with smiling eyes"><alt>:grin:</alt></emoticon>
+	<emoticon defaultKey="😅" image="1f605.png" order="106" text="smiling face with open mouth and cold sweat"><alt>:sweat_smile:</alt></emoticon>
+	<emoticon defaultKey="😊" image="1f60a.png" order="110" text="smiling face with smiling eyes"><alt>:blush:</alt></emoticon>
+	<emoticon defaultKey="🙃" image="1f643.png" order="112" text="upside-down face"><alt>:upside_down:</alt></emoticon>
+	<emoticon defaultKey="😋" image="1f60b.png" order="114" text="face savouring delicious food"><alt>:yum:</alt></emoticon>
+	<emoticon defaultKey="😌" image="1f60c.png" order="115" text="relieved face"><alt>:relieved:</alt></emoticon>
+	<emoticon defaultKey="😗" image="1f617.png" order="118" text="kissing face"><alt>:kissing:</alt></emoticon>
+	<emoticon defaultKey="😙" image="1f619.png" order="119" text="kissing face with smiling eyes"><alt>:kissing_smiling_eyes:</alt></emoticon>
+	<emoticon defaultKey="😚" image="1f61a.png" order="120" text="kissing face with closed eyes"><alt>:kissing_closed_eyes:</alt></emoticon>
+	<emoticon defaultKey="😝" image="1f61d.png" order="122" text="face with stuck-out tongue and tightly-closed eyes"><alt>:stuck_out_tongue_closed_eyes:</alt></emoticon>
+	<emoticon defaultKey="😛" image="1f61b.png" order="123" text="face with stuck-out tongue"><alt>:stuck_out_tongue:</alt></emoticon>
+	<emoticon defaultKey="🤑" image="1f911.png" order="124" text="money-mouth face"><alt>:money_mouth:</alt></emoticon>
+	<emoticon defaultKey="🤗" image="1f917.png" order="127" text="hugging face"><alt>:hugging:</alt></emoticon>
+	<emoticon defaultKey="😏" image="1f60f.png" order="128" text="smirking face"><alt>:smirk:</alt></emoticon>
+	<emoticon defaultKey="😒" image="1f612.png" order="132" text="unamused face"><alt>:unamused:</alt></emoticon>
+	<emoticon defaultKey="🙄" image="1f644.png" order="133" text="face with rolling eyes"><alt>:rolling_eyes:</alt></emoticon>
+	<emoticon defaultKey="🤔" image="1f914.png" order="134" text="thinking face"><alt>:thinking:</alt></emoticon>
+	<emoticon defaultKey="😞" image="1f61e.png" order="136" text="disappointed face"><alt>:disappointed:</alt></emoticon>
+	<emoticon defaultKey="😟" image="1f61f.png" order="137" text="worried face"><alt>:worried:</alt></emoticon>
+	<emoticon defaultKey="😠" image="1f620.png" order="138" text="angry face"><alt>:angry:</alt></emoticon>
+	<emoticon defaultKey="😔" image="1f614.png" order="140" text="pensive face"><alt>:pensive:</alt></emoticon>
+	<emoticon defaultKey="☹ " image="2639.png" order="143" text="white frowning face"><alt>:frowning2:</alt></emoticon>
+	<emoticon defaultKey="😣" image="1f623.png" order="144" text="persevering face"><alt>:persevere:</alt></emoticon>
+	<emoticon defaultKey="😫" image="1f62b.png" order="146" text="tired face"><alt>:tired_face:</alt></emoticon>
+	<emoticon defaultKey="😩" image="1f629.png" order="147" text="weary face"><alt>:weary:</alt></emoticon>
+	<emoticon defaultKey="😤" image="1f624.png" order="148" text="face with look of triumph"><alt>:triumph:</alt></emoticon>
+	<emoticon defaultKey="😱" image="1f631.png" order="150" text="face screaming in fear"><alt>:scream:</alt></emoticon>
+	<emoticon defaultKey="😨" image="1f628.png" order="151" text="fearful face"><alt>:fearful:</alt></emoticon>
+	<emoticon defaultKey="😰" image="1f630.png" order="152" text="face with open mouth and cold sweat"><alt>:cold_sweat:</alt></emoticon>
+	<emoticon defaultKey="😥" image="1f625.png" order="157" text="disappointed but relieved face"><alt>:disappointed_relieved:</alt></emoticon>
+	<emoticon defaultKey="😓" image="1f613.png" order="159" text="face with cold sweat"><alt>:sweat:</alt></emoticon>
+	<emoticon defaultKey="😭" image="1f62d.png" order="160" text="loudly crying face"><alt>:sob:</alt></emoticon>
+	<emoticon defaultKey="😲" image="1f632.png" order="162" text="astonished face"><alt>:astonished:</alt></emoticon>
+	<emoticon defaultKey="🤐" image="1f910.png" order="163" text="zipper-mouth face"><alt>:zipper_mouth:</alt></emoticon>
+	<emoticon defaultKey="😷" image="1f637.png" order="164" text="face with medical mask"><alt>:mask:</alt></emoticon>
+	<emoticon defaultKey="🤕" image="1f915.png" order="166" text="face with head-bandage"><alt>:head_bandage:</alt></emoticon>
+	<emoticon defaultKey="💤" image="1f4a4.png" order="168" text="sleeping symbol"><alt>:zzz:</alt></emoticon>
+	<emoticon defaultKey="💩" image="1f4a9.png" order="169" text="pile of poo"><alt>:poop:</alt></emoticon>
+	<emoticon defaultKey="😈" image="1f608.png" order="170" text="smiling face with horns"><alt>:smiling_imp:</alt></emoticon>
+	<emoticon defaultKey="👿" image="1f47f.png" order="171" text="imp"><alt>:imp:</alt></emoticon>
+	<emoticon defaultKey="👹" image="1f479.png" order="172" text="japanese ogre"><alt>:japanese_ogre:</alt></emoticon>
+	<emoticon defaultKey="👺" image="1f47a.png" order="173" text="japanese goblin"><alt>:japanese_goblin:</alt></emoticon>
+	<emoticon defaultKey="💀" image="1f480.png" order="174" text="skull"><alt>:skull:</alt></emoticon>
+	<emoticon defaultKey="👻" image="1f47b.png" order="175" text="ghost"><alt>:ghost:</alt></emoticon>
+	<emoticon defaultKey="👽" image="1f47d.png" order="176" text="extraterrestrial alien"><alt>:alien:</alt></emoticon>
+	<emoticon defaultKey="🤖" image="1f916.png" order="177" text="robot face"><alt>:robot:</alt></emoticon>
+	<emoticon defaultKey="😺" image="1f63a.png" order="178" text="smiling cat face with open mouth"><alt>:smiley_cat:</alt></emoticon>
+	<emoticon defaultKey="😸" image="1f638.png" order="179" text="grinning cat face with smiling eyes"><alt>:smile_cat:</alt></emoticon>
+	<emoticon defaultKey="😹" image="1f639.png" order="180" text="cat face with tears of joy"><alt>:joy_cat:</alt></emoticon>
+	<emoticon defaultKey="😻" image="1f63b.png" order="181" text="smiling cat face with heart-shaped eyes"><alt>:heart_eyes_cat:</alt></emoticon>
+	<emoticon defaultKey="😼" image="1f63c.png" order="182" text="cat face with wry smile"><alt>:smirk_cat:</alt></emoticon>
+	<emoticon defaultKey="😽" image="1f63d.png" order="183" text="kissing cat face with closed eyes"><alt>:kissing_cat:</alt></emoticon>
+	<emoticon defaultKey="🙀" image="1f640.png" order="184" text="weary cat face"><alt>:scream_cat:</alt></emoticon>
+	<emoticon defaultKey="😿" image="1f63f.png" order="185" text="crying cat face"><alt>:crying_cat_face:</alt></emoticon>
+	<emoticon defaultKey="😾" image="1f63e.png" order="186" text="pouting cat face"><alt>:pouting_cat:</alt></emoticon>
+	<emoticon defaultKey="🙌" image="1f64c.png" order="187" text="person raising both hands in celebration"><alt>:raised_hands:</alt></emoticon>
+	<emoticon defaultKey="👏" image="1f44f.png" order="188" text="clapping hands sign"><alt>:clap:</alt></emoticon>
+	<emoticon defaultKey="👋" image="1f44b.png" order="189" text="waving hand sign"><alt>:wave:</alt></emoticon>
+	<emoticon defaultKey="👊" image="1f44a.png" order="192" text="fisted hand sign"><alt>:punch:</alt></emoticon>
+	<emoticon defaultKey="✋ " image="270b.png" order="196" text="raised hand"><alt>:raised_hand:</alt></emoticon>
+	<emoticon defaultKey="👐" image="1f450.png" order="197" text="open hands sign"><alt>:open_hands:</alt></emoticon>
+	<emoticon defaultKey="💪" image="1f4aa.png" order="198" text="flexed biceps"><alt>:muscle:</alt></emoticon>
+	<emoticon defaultKey="🙏" image="1f64f.png" order="199" text="person with folded hands"><alt>:pray:</alt></emoticon>
+	<emoticon defaultKey="☝ " image="261d.png" order="200" text="white up pointing index"><alt>:point_up:</alt></emoticon>
+	<emoticon defaultKey="🖕" image="1f595.png" order="205" text="reversed hand with middle finger extended"><alt>:middle_finger:</alt></emoticon>
+	<emoticon defaultKey="🖐" image="1f590.png" order="206" text="raised hand with fingers splayed"><alt>:hand_splayed:</alt></emoticon>
+	<emoticon defaultKey="🖖" image="1f596.png" order="208" text="raised hand with part between middle and ring fingers"><alt>:vulcan:</alt></emoticon>
+	<emoticon defaultKey="✍ " image="270d.png" order="209" text="writing hand"><alt>:writing_hand:</alt></emoticon>
+	<emoticon defaultKey="💅" image="1f485.png" order="210" text="nail polish"><alt>:nail_care:</alt></emoticon>
+	<emoticon defaultKey="👄" image="1f444.png" order="211" text="mouth"><alt>:lips:</alt></emoticon>
+	<emoticon defaultKey="👅" image="1f445.png" order="212" text="tongue "><alt>:tongue:</alt></emoticon>
+	<emoticon defaultKey="👂" image="1f442.png" order="213" text="ear"><alt>:ear:</alt></emoticon>
+	<emoticon defaultKey="👃" image="1f443.png" order="214" text="nose"><alt>:nose:</alt></emoticon>
+	<emoticon defaultKey="👁" image="1f441.png" order="215" text="eye"><alt>:eye:</alt></emoticon>
+	<emoticon defaultKey="👀" image="1f440.png" order="216" text="eyes"><alt>:eyes:</alt></emoticon>
+	<emoticon defaultKey="👤" image="1f464.png" order="217" text="bust in silhouette"><alt>:bust_in_silhouette:</alt></emoticon>
+	<emoticon defaultKey="👥" image="1f465.png" order="218" text="busts in silhouette"><alt>:busts_in_silhouette:</alt></emoticon>
+	<emoticon defaultKey="🗣" image="1f5e3.png" order="219" text="speaking head in silhouette"><alt>:speaking_head:</alt></emoticon>
+	<emoticon defaultKey="👶" image="1f476.png" order="220" text="baby"><alt>:baby:</alt></emoticon>
+	<emoticon defaultKey="👦" image="1f466.png" order="221" text="boy"><alt>:boy:</alt></emoticon>
+	<emoticon defaultKey="👧" image="1f467.png" order="222" text="girl"><alt>:girl:</alt></emoticon>
+	<emoticon defaultKey="👨" image="1f468.png" order="223" text="man"><alt>:man:</alt></emoticon>
+	<emoticon defaultKey="👩" image="1f469.png" order="224" text="woman"><alt>:woman:</alt></emoticon>
+	<emoticon defaultKey="👱" image="1f471.png" order="225" text="person with blond hair"><alt>:person_with_blond_hair:</alt></emoticon>
+	<emoticon defaultKey="👴" image="1f474.png" order="226" text="older man"><alt>:older_man:</alt></emoticon>
+	<emoticon defaultKey="👵" image="1f475.png" order="227" text="older woman"><alt>:older_woman:</alt></emoticon>
+	<emoticon defaultKey="👲" image="1f472.png" order="228" text="man with gua pi mao"><alt>:man_with_gua_pi_mao:</alt></emoticon>
+	<emoticon defaultKey="👳" image="1f473.png" order="229" text="man with turban"><alt>:man_with_turban:</alt></emoticon>
+	<emoticon defaultKey="👮" image="1f46e.png" order="230" text="police officer"><alt>:cop:</alt></emoticon>
+	<emoticon defaultKey="👷" image="1f477.png" order="231" text="construction worker"><alt>:construction_worker:</alt></emoticon>
+	<emoticon defaultKey="💂" image="1f482.png" order="232" text="guardsman"><alt>:guardsman:</alt></emoticon>
+	<emoticon defaultKey="🕵" image="1f575.png" order="233" text="sleuth or spy"><alt>:spy:</alt></emoticon>
+	<emoticon defaultKey="🎅" image="1f385.png" order="234" text="father christmas"><alt>:santa:</alt></emoticon>
+	<emoticon defaultKey="👼" image="1f47c.png" order="235" text="baby angel"><alt>:angel:</alt></emoticon>
+	<emoticon defaultKey="👸" image="1f478.png" order="236" text="princess"><alt>:princess:</alt></emoticon>
+	<emoticon defaultKey="👰" image="1f470.png" order="237" text="bride with veil"><alt>:bride_with_veil:</alt></emoticon>
+	<emoticon defaultKey="🚶" image="1f6b6.png" order="238" text="pedestrian"><alt>:walking:</alt></emoticon>
+	<emoticon defaultKey="🏃" image="1f3c3.png" order="239" text="runner"><alt>:runner:</alt></emoticon>
+	<emoticon defaultKey="💃" image="1f483.png" order="240" text="dancer"><alt>:dancer:</alt></emoticon>
+	<emoticon defaultKey="👯" image="1f46f.png" order="241" text="woman with bunny ears"><alt>:dancers:</alt></emoticon>
+	<emoticon defaultKey="👫" image="1f46b.png" order="242" text="man and woman holding hands"><alt>:couple:</alt></emoticon>
+	<emoticon defaultKey="👬" image="1f46c.png" order="243" text="two men holding hands"><alt>:two_men_holding_hands:</alt></emoticon>
+	<emoticon defaultKey="👭" image="1f46d.png" order="244" text="two women holding hands"><alt>:two_women_holding_hands:</alt></emoticon>
+	<emoticon defaultKey="🙇" image="1f647.png" order="245" text="person bowing deeply"><alt>:bow:</alt></emoticon>
+	<emoticon defaultKey="💁" image="1f481.png" order="246" text="information desk person"><alt>:information_desk_person:</alt></emoticon>
+	<emoticon defaultKey="🙅" image="1f645.png" order="247" text="face with no good gesture"><alt>:no_good:</alt></emoticon>
+	<emoticon defaultKey="🙆" image="1f646.png" order="248" text="face with ok gesture"><alt>:ok_woman:</alt></emoticon>
+	<emoticon defaultKey="🙋" image="1f64b.png" order="249" text="happy person raising one hand"><alt>:raising_hand:</alt></emoticon>
+	<emoticon defaultKey="🙎" image="1f64e.png" order="250" text="person with pouting face"><alt>:person_with_pouting_face:</alt></emoticon>
+	<emoticon defaultKey="🙍" image="1f64d.png" order="251" text="person frowning"><alt>:person_frowning:</alt></emoticon>
+	<emoticon defaultKey="💇" image="1f487.png" order="252" text="haircut"><alt>:haircut:</alt></emoticon>
+	<emoticon defaultKey="💆" image="1f486.png" order="253" text="face massage"><alt>:massage:</alt></emoticon>
+	<emoticon defaultKey="💑" image="1f491.png" order="254" text="couple with heart"><alt>:couple_with_heart:</alt></emoticon>
+	<emoticon defaultKey="👩‍❤️‍👩" image="1f469-200d-2764-fe0f-200d-1f469.png" order="255" text="couple (woman,woman)"><alt>:couple_ww:</alt></emoticon>
+	<emoticon defaultKey="👨‍❤️‍👨" image="1f468-200d-2764-fe0f-200d-1f468.png" order="256" text="couple (man,man)"><alt>:couple_mm:</alt></emoticon>
+	<emoticon defaultKey="💏" image="1f48f.png" order="257" text="kiss"><alt>:couplekiss:</alt></emoticon>
+	<emoticon defaultKey="👩‍❤️‍💋‍👩" image="1f469-200d-2764-fe0f-200d-1f48b-200d-1f469.png" order="258" text="kiss (woman,woman)"><alt>:kiss_ww:</alt></emoticon>
+	<emoticon defaultKey="👨‍❤️‍💋‍👨" image="1f468-200d-2764-fe0f-200d-1f48b-200d-1f468.png" order="259" text="kiss (man,man)"><alt>:kiss_mm:</alt></emoticon>
+	<emoticon defaultKey="👪" image="1f46a.png" order="260" text="family"><alt>:family:</alt></emoticon>
+	<emoticon defaultKey="👨‍👩‍👧" image="1f468-200d-1f469-200d-1f467.png" order="261" text="family (man,woman,girl)"><alt>:family_mwg:</alt></emoticon>
+	<emoticon defaultKey="👨‍👩‍👧👦" image="1f468-200d-1f469-200d-1f467-200d-1f466.png" order="262" text="family (man,woman,girl,boy)"><alt>:family_mwgb:</alt></emoticon>
+	<emoticon defaultKey="👨‍👩‍👦‍👦" image="1f468-200d-1f469-200d-1f466-200d-1f466.png" order="263" text="family (man,woman,boy,boy)"><alt>:family_mwbb:</alt></emoticon>
+	<emoticon defaultKey="👨‍👩‍👧👧" image="1f468-200d-1f469-200d-1f467-200d-1f467.png" order="264" text="family (man,woman,girl,girl)"><alt>:family_mwgg:</alt></emoticon>
+	<emoticon defaultKey="👩👩👦" image="1f469-200d-1f469-200d-1f466.png" order="265" text="family (woman,woman,boy)"><alt>:family_wwb:</alt></emoticon>
+	<emoticon defaultKey="👩👩👧" image="1f469-200d-1f469-200d-1f467.png" order="266" text="family (woman,woman,girl)"><alt>:family_wwg:</alt></emoticon>
+	<emoticon defaultKey="👩👩👧👦" image="1f469-200d-1f469-200d-1f467-200d-1f466.png" order="267" text="family (woman,woman,girl,boy)"><alt>:family_wwgb:</alt></emoticon>
+	<emoticon defaultKey="👩👩👦👦" image="1f469-200d-1f469-200d-1f466-200d-1f466.png" order="268" text="family (woman,woman,boy,boy)"><alt>:family_wwbb:</alt></emoticon>
+	<emoticon defaultKey="👩👩👧👧" image="1f469-200d-1f469-200d-1f467-200d-1f467.png" order="269" text="family (woman,woman,girl,girl)"><alt>:family_wwgg:</alt></emoticon>
+	<emoticon defaultKey="👨‍👨‍👦" image="1f468-200d-1f468-200d-1f466.png" order="270" text="family (man,man,boy)"><alt>:family_mmb:</alt></emoticon>
+	<emoticon defaultKey="👨‍👨‍👧" image="1f468-200d-1f468-200d-1f467.png" order="271" text="family (man,man,girl)"><alt>:family_mmg:</alt></emoticon>
+	<emoticon defaultKey="👨‍👨‍👧👦" image="1f468-200d-1f468-200d-1f467-200d-1f466.png" order="272" text="family (man,man,girl,boy)"><alt>:family_mmgb:</alt></emoticon>
+	<emoticon defaultKey="👨‍👨‍👦👦" image="1f468-200d-1f468-200d-1f466-200d-1f466.png" order="273" text="family (man,man,boy,boy)"><alt>:family_mmbb:</alt></emoticon>
+	<emoticon defaultKey="👨‍👨‍👧👧" image="1f468-200d-1f468-200d-1f467-200d-1f467.png" order="274" text="family (man,man,girl,girl)"><alt>:family_mmgg:</alt></emoticon>
+	<emoticon defaultKey="👚" image="1f45a.png" order="275" text="womans clothes"><alt>:womans_clothes:</alt></emoticon>
+	<emoticon defaultKey="👕" image="1f455.png" order="276" text="t-shirt"><alt>:shirt:</alt></emoticon>
+	<emoticon defaultKey="👖" image="1f456.png" order="277" text="jeans"><alt>:jeans:</alt></emoticon>
+	<emoticon defaultKey="👔" image="1f454.png" order="278" text="necktie"><alt>:necktie:</alt></emoticon>
+	<emoticon defaultKey="👗" image="1f457.png" order="279" text="dress"><alt>:dress:</alt></emoticon>
+	<emoticon defaultKey="👙" image="1f459.png" order="280" text="bikini"><alt>:bikini:</alt></emoticon>
+	<emoticon defaultKey="👘" image="1f458.png" order="281" text="kimono"><alt>:kimono:</alt></emoticon>
+	<emoticon defaultKey="💄" image="1f484.png" order="282" text="lipstick"><alt>:lipstick:</alt></emoticon>
+	<emoticon defaultKey="💋" image="1f48b.png" order="283" text="kiss mark"><alt>:kiss:</alt></emoticon>
+	<emoticon defaultKey="👣" image="1f463.png" order="284" text="footprints"><alt>:footprints:</alt></emoticon>
+	<emoticon defaultKey="👠" image="1f460.png" order="285" text="high-heeled shoe"><alt>:high_heel:</alt></emoticon>
+	<emoticon defaultKey="👡" image="1f461.png" order="286" text="womans sandal"><alt>:sandal:</alt></emoticon>
+	<emoticon defaultKey="👢" image="1f462.png" order="287" text="womans boots"><alt>:boot:</alt></emoticon>
+	<emoticon defaultKey="👞" image="1f45e.png" order="288" text="mans shoe"><alt>:mans_shoe:</alt></emoticon>
+	<emoticon defaultKey="👟" image="1f45f.png" order="289" text="athletic shoe"><alt>:athletic_shoe:</alt></emoticon>
+	<emoticon defaultKey="👒" image="1f452.png" order="290" text="womans hat"><alt>:womans_hat:</alt></emoticon>
+	<emoticon defaultKey="🎩" image="1f3a9.png" order="291" text="top hat"><alt>:tophat:</alt></emoticon>
+	<emoticon defaultKey="⛑ " image="26d1.png" order="292" text="helmet with white cross"><alt>:helmet_with_cross:</alt></emoticon>
+	<emoticon defaultKey="🎓" image="1f393.png" order="293" text="graduation cap"><alt>:mortar_board:</alt></emoticon>
+	<emoticon defaultKey="👑" image="1f451.png" order="294" text="crown"><alt>:crown:</alt></emoticon>
+	<emoticon defaultKey="🎒" image="1f392.png" order="295" text="school satchel"><alt>:school_satchel:</alt></emoticon>
+	<emoticon defaultKey="👝" image="1f45d.png" order="296" text="pouch"><alt>:pouch:</alt></emoticon>
+	<emoticon defaultKey="👛" image="1f45b.png" order="297" text="purse"><alt>:purse:</alt></emoticon>
+	<emoticon defaultKey="👜" image="1f45c.png" order="298" text="handbag"><alt>:handbag:</alt></emoticon>
+	<emoticon defaultKey="💼" image="1f4bc.png" order="299" text="briefcase"><alt>:briefcase:</alt></emoticon>
+	<emoticon defaultKey="👓" image="1f453.png" order="300" text="eyeglasses"><alt>:eyeglasses:</alt></emoticon>
+	<emoticon defaultKey="🕶" image="1f576.png" order="301" text="dark sunglasses"><alt>:dark_sunglasses:</alt></emoticon>
+	<emoticon defaultKey="💍" image="1f48d.png" order="302" text="ring"><alt>:ring:</alt></emoticon>
+	<emoticon defaultKey="🌂" image="1f302.png" order="303" text="closed umbrella"><alt>:closed_umbrella:</alt></emoticon>
+	<emoticon defaultKey="🐶" image="1f436.png" order="304" text="dog face"><alt>:dog:</alt></emoticon>
+	<emoticon defaultKey="🐱" image="1f431.png" order="305" text="cat face"><alt>:cat:</alt></emoticon>
+	<emoticon defaultKey="🐭" image="1f42d.png" order="306" text="mouse face"><alt>:mouse:</alt></emoticon>
+	<emoticon defaultKey="🐹" image="1f439.png" order="307" text="hamster face"><alt>:hamster:</alt></emoticon>
+	<emoticon defaultKey="🐰" image="1f430.png" order="308" text="rabbit face"><alt>:rabbit:</alt></emoticon>
+	<emoticon defaultKey="🐻" image="1f43b.png" order="309" text="bear face"><alt>:bear:</alt></emoticon>
+	<emoticon defaultKey="🐼" image="1f43c.png" order="310" text="panda face"><alt>:panda_face:</alt></emoticon>
+	<emoticon defaultKey="🐨" image="1f428.png" order="311" text="koala"><alt>:koala:</alt></emoticon>
+	<emoticon defaultKey="🐯" image="1f42f.png" order="312" text="tiger face"><alt>:tiger:</alt></emoticon>
+	<emoticon defaultKey="🦁" image="1f981.png" order="313" text="lion face"><alt>:lion_face:</alt></emoticon>
+	<emoticon defaultKey="🐮" image="1f42e.png" order="314" text="cow face"><alt>:cow:</alt></emoticon>
+	<emoticon defaultKey="🐷" image="1f437.png" order="315" text="pig face"><alt>:pig:</alt></emoticon>
+	<emoticon defaultKey="🐽" image="1f43d.png" order="316" text="pig nose"><alt>:pig_nose:</alt></emoticon>
+	<emoticon defaultKey="🐸" image="1f438.png" order="317" text="frog face"><alt>:frog:</alt></emoticon>
+	<emoticon defaultKey="🐙" image="1f419.png" order="318" text="octopus"><alt>:octopus:</alt></emoticon>
+	<emoticon defaultKey="🐵" image="1f435.png" order="319" text="monkey face"><alt>:monkey_face:</alt></emoticon>
+	<emoticon defaultKey="🙈" image="1f648.png" order="320" text="see-no-evil monkey"><alt>:see_no_evil:</alt></emoticon>
+	<emoticon defaultKey="🙉" image="1f649.png" order="321" text="hear-no-evil monkey"><alt>:hear_no_evil:</alt></emoticon>
+	<emoticon defaultKey="🐒" image="1f412.png" order="323" text="monkey"><alt>:monkey:</alt></emoticon>
+	<emoticon defaultKey="🐔" image="1f414.png" order="324" text="chicken"><alt>:chicken:</alt></emoticon>
+	<emoticon defaultKey="🐧" image="1f427.png" order="325" text="penguin"><alt>:penguin:</alt></emoticon>
+	<emoticon defaultKey="🐦" image="1f426.png" order="326" text="bird"><alt>:bird:</alt></emoticon>
+	<emoticon defaultKey="🐤" image="1f424.png" order="327" text="baby chick"><alt>:baby_chick:</alt></emoticon>
+	<emoticon defaultKey="🐣" image="1f423.png" order="328" text="hatching chick"><alt>:hatching_chick:</alt></emoticon>
+	<emoticon defaultKey="🐥" image="1f425.png" order="329" text="front-facing baby chick"><alt>:hatched_chick:</alt></emoticon>
+	<emoticon defaultKey="🐺" image="1f43a.png" order="330" text="wolf face"><alt>:wolf:</alt></emoticon>
+	<emoticon defaultKey="🐗" image="1f417.png" order="331" text="boar"><alt>:boar:</alt></emoticon>
+	<emoticon defaultKey="🐴" image="1f434.png" order="332" text="horse face"><alt>:horse:</alt></emoticon>
+	<emoticon defaultKey="🦄" image="1f984.png" order="333" text="unicorn face"><alt>:unicorn:</alt></emoticon>
+	<emoticon defaultKey="🐝" image="1f41d.png" order="334" text="honeybee"><alt>:bee:</alt></emoticon>
+	<emoticon defaultKey="🐛" image="1f41b.png" order="335" text="bug"><alt>:bug:</alt></emoticon>
+	<emoticon defaultKey="🐌" image="1f40c.png" order="336" text="snail"><alt>:snail:</alt></emoticon>
+	<emoticon defaultKey="🐞" image="1f41e.png" order="337" text="lady beetle"><alt>:beetle:</alt></emoticon>
+	<emoticon defaultKey="🐜" image="1f41c.png" order="338" text="ant"><alt>:ant:</alt></emoticon>
+	<emoticon defaultKey="🕷" image="1f577.png" order="339" text="spider"><alt>:spider:</alt></emoticon>
+	<emoticon defaultKey="🦂" image="1f982.png" order="340" text="scorpion"><alt>:scorpion:</alt></emoticon>
+	<emoticon defaultKey="🦀" image="1f980.png" order="341" text="crab"><alt>:crab:</alt></emoticon>
+	<emoticon defaultKey="🐍" image="1f40d.png" order="342" text="snake"><alt>:snake:</alt></emoticon>
+	<emoticon defaultKey="🐢" image="1f422.png" order="343" text="turtle"><alt>:turtle:</alt></emoticon>
+	<emoticon defaultKey="🐠" image="1f420.png" order="344" text="tropical fish"><alt>:tropical_fish:</alt></emoticon>
+	<emoticon defaultKey="🐟" image="1f41f.png" order="345" text="fish"><alt>:fish:</alt></emoticon>
+	<emoticon defaultKey="🐡" image="1f421.png" order="346" text="blowfish"><alt>:blowfish:</alt></emoticon>
+	<emoticon defaultKey="🐬" image="1f42c.png" order="347" text="dolphin"><alt>:dolphin:</alt></emoticon>
+	<emoticon defaultKey="🐳" image="1f433.png" order="348" text="spouting whale"><alt>:whale:</alt></emoticon>
+	<emoticon defaultKey="🐋" image="1f40b.png" order="349" text="whale"><alt>:whale2:</alt></emoticon>
+	<emoticon defaultKey="🐊" image="1f40a.png" order="350" text="crocodile"><alt>:crocodile:</alt></emoticon>
+	<emoticon defaultKey="🐆" image="1f406.png" order="351" text="leopard"><alt>:leopard:</alt></emoticon>
+	<emoticon defaultKey="🐅" image="1f405.png" order="352" text="tiger"><alt>:tiger2:</alt></emoticon>
+	<emoticon defaultKey="🐃" image="1f403.png" order="353" text="water buffalo"><alt>:water_buffalo:</alt></emoticon>
+	<emoticon defaultKey="🐂" image="1f402.png" order="354" text="ox"><alt>:ox:</alt></emoticon>
+	<emoticon defaultKey="🐄" image="1f404.png" order="355" text="cow"><alt>:cow2:</alt></emoticon>
+	<emoticon defaultKey="🐪" image="1f42a.png" order="356" text="dromedary camel"><alt>:dromedary_camel:</alt></emoticon>
+	<emoticon defaultKey="🐫" image="1f42b.png" order="357" text="bactrian camel"><alt>:camel:</alt></emoticon>
+	<emoticon defaultKey="🐘" image="1f418.png" order="358" text="elephant"><alt>:elephant:</alt></emoticon>
+	<emoticon defaultKey="🐐" image="1f410.png" order="359" text="goat"><alt>:goat:</alt></emoticon>
+	<emoticon defaultKey="🐏" image="1f40f.png" order="360" text="ram"><alt>:ram:</alt></emoticon>
+	<emoticon defaultKey="🐑" image="1f411.png" order="361" text="sheep"><alt>:sheep:</alt></emoticon>
+	<emoticon defaultKey="🐎" image="1f40e.png" order="362" text="horse"><alt>:racehorse:</alt></emoticon>
+	<emoticon defaultKey="🐖" image="1f416.png" order="363" text="pig"><alt>:pig2:</alt></emoticon>
+	<emoticon defaultKey="🐀" image="1f400.png" order="364" text="rat"><alt>:rat:</alt></emoticon>
+	<emoticon defaultKey="🐁" image="1f401.png" order="365" text="mouse"><alt>:mouse2:</alt></emoticon>
+	<emoticon defaultKey="🐓" image="1f413.png" order="366" text="rooster"><alt>:rooster:</alt></emoticon>
+	<emoticon defaultKey="🦃" image="1f983.png" order="367" text="turkey"><alt>:turkey:</alt></emoticon>
+	<emoticon defaultKey="🕊" image="1f54a.png" order="368" text="dove of peace"><alt>:dove:</alt></emoticon>
+	<emoticon defaultKey="🐕" image="1f415.png" order="369" text="dog"><alt>:dog2:</alt></emoticon>
+	<emoticon defaultKey="🐩" image="1f429.png" order="370" text="poodle"><alt>:poodle:</alt></emoticon>
+	<emoticon defaultKey="🐈" image="1f408.png" order="371" text="cat"><alt>:cat2:</alt></emoticon>
+	<emoticon defaultKey="🐇" image="1f407.png" order="372" text="rabbit"><alt>:rabbit2:</alt></emoticon>
+	<emoticon defaultKey="🐿" image="1f43f.png" order="373" text="chipmunk"><alt>:chipmunk:</alt></emoticon>
+	<emoticon defaultKey="🐾" image="1f43e.png" order="374" text="paw prints"><alt>:feet:</alt></emoticon>
+	<emoticon defaultKey="🐉" image="1f409.png" order="375" text="dragon"><alt>:dragon:</alt></emoticon>
+	<emoticon defaultKey="🐲" image="1f432.png" order="376" text="dragon face"><alt>:dragon_face:</alt></emoticon>
+	<emoticon defaultKey="🌵" image="1f335.png" order="377" text="cactus"><alt>:cactus:</alt></emoticon>
+	<emoticon defaultKey="🎄" image="1f384.png" order="378" text="christmas tree"><alt>:christmas_tree:</alt></emoticon>
+	<emoticon defaultKey="🌲" image="1f332.png" order="379" text="evergreen tree"><alt>:evergreen_tree:</alt></emoticon>
+	<emoticon defaultKey="🌳" image="1f333.png" order="380" text="deciduous tree"><alt>:deciduous_tree:</alt></emoticon>
+	<emoticon defaultKey="🌴" image="1f334.png" order="381" text="palm tree"><alt>:palm_tree:</alt></emoticon>
+	<emoticon defaultKey="🌱" image="1f331.png" order="382" text="seedling"><alt>:seedling:</alt></emoticon>
+	<emoticon defaultKey="🌿" image="1f33f.png" order="383" text="herb"><alt>:herb:</alt></emoticon>
+	<emoticon defaultKey="☘ " image="2618.png" order="384" text="shamrock"><alt>:shamrock:</alt></emoticon>
+	<emoticon defaultKey="🍀" image="1f340.png" order="385" text="four leaf clover"><alt>:four_leaf_clover:</alt></emoticon>
+	<emoticon defaultKey="🎍" image="1f38d.png" order="386" text="pine decoration"><alt>:bamboo:</alt></emoticon>
+	<emoticon defaultKey="🎋" image="1f38b.png" order="387" text="tanabata tree"><alt>:tanabata_tree:</alt></emoticon>
+	<emoticon defaultKey="🍃" image="1f343.png" order="388" text="leaf fluttering in wind"><alt>:leaves:</alt></emoticon>
+	<emoticon defaultKey="🍂" image="1f342.png" order="389" text="fallen leaf"><alt>:fallen_leaf:</alt></emoticon>
+	<emoticon defaultKey="🍁" image="1f341.png" order="390" text="maple leaf"><alt>:maple_leaf:</alt></emoticon>
+	<emoticon defaultKey="🌾" image="1f33e.png" order="391" text="ear of rice"><alt>:ear_of_rice:</alt></emoticon>
+	<emoticon defaultKey="🌺" image="1f33a.png" order="392" text="hibiscus"><alt>:hibiscus:</alt></emoticon>
+	<emoticon defaultKey="🌻" image="1f33b.png" order="393" text="sunflower"><alt>:sunflower:</alt></emoticon>
+	<emoticon defaultKey="🌹" image="1f339.png" order="394" text="rose"><alt>:rose:</alt></emoticon>
+	<emoticon defaultKey="🌷" image="1f337.png" order="395" text="tulip"><alt>:tulip:</alt></emoticon>
+	<emoticon defaultKey="🌼" image="1f33c.png" order="396" text="blossom"><alt>:blossom:</alt></emoticon>
+	<emoticon defaultKey="🌸" image="1f338.png" order="397" text="cherry blossom"><alt>:cherry_blossom:</alt></emoticon>
+	<emoticon defaultKey="💐" image="1f490.png" order="398" text="bouquet"><alt>:bouquet:</alt></emoticon>
+	<emoticon defaultKey="🍄" image="1f344.png" order="399" text="mushroom"><alt>:mushroom:</alt></emoticon>
+	<emoticon defaultKey="🌰" image="1f330.png" order="400" text="chestnut"><alt>:chestnut:</alt></emoticon>
+	<emoticon defaultKey="🎃" image="1f383.png" order="401" text="jack-o-lantern"><alt>:jack_o_lantern:</alt></emoticon>
+	<emoticon defaultKey="🐚" image="1f41a.png" order="402" text="spiral shell"><alt>:shell:</alt></emoticon>
+	<emoticon defaultKey="🕸" image="1f578.png" order="403" text="spider web"><alt>:spider_web:</alt></emoticon>
+	<emoticon defaultKey="🌎" image="1f30e.png" order="404" text="earth globe americas"><alt>:earth_americas:</alt></emoticon>
+	<emoticon defaultKey="🌍" image="1f30d.png" order="405" text="earth globe europe-africa"><alt>:earth_africa:</alt></emoticon>
+	<emoticon defaultKey="🌏" image="1f30f.png" order="406" text="earth globe asia-australia"><alt>:earth_asia:</alt></emoticon>
+	<emoticon defaultKey="🌕" image="1f315.png" order="407" text="full moon symbol"><alt>:full_moon:</alt></emoticon>
+	<emoticon defaultKey="🌖" image="1f316.png" order="408" text="waning gibbous moon symbol"><alt>:waning_gibbous_moon:</alt></emoticon>
+	<emoticon defaultKey="🌗" image="1f317.png" order="409" text="last quarter moon symbol"><alt>:last_quarter_moon:</alt></emoticon>
+	<emoticon defaultKey="🌘" image="1f318.png" order="410" text="waning crescent moon symbol"><alt>:waning_crescent_moon:</alt></emoticon>
+	<emoticon defaultKey="🌑" image="1f311.png" order="411" text="new moon symbol"><alt>:new_moon:</alt></emoticon>
+	<emoticon defaultKey="🌒" image="1f312.png" order="412" text="waxing crescent moon symbol"><alt>:waxing_crescent_moon:</alt></emoticon>
+	<emoticon defaultKey="🌓" image="1f313.png" order="413" text="first quarter moon symbol"><alt>:first_quarter_moon:</alt></emoticon>
+	<emoticon defaultKey="🌔" image="1f314.png" order="414" text="waxing gibbous moon symbol"><alt>:waxing_gibbous_moon:</alt></emoticon>
+	<emoticon defaultKey="🌚" image="1f31a.png" order="415" text="new moon with face"><alt>:new_moon_with_face:</alt></emoticon>
+	<emoticon defaultKey="🌝" image="1f31d.png" order="416" text="full moon with face"><alt>:full_moon_with_face:</alt></emoticon>
+	<emoticon defaultKey="🌛" image="1f31b.png" order="417" text="first quarter moon with face"><alt>:first_quarter_moon_with_face:</alt></emoticon>
+	<emoticon defaultKey="🌜" image="1f31c.png" order="418" text="last quarter moon with face"><alt>:last_quarter_moon_with_face:</alt></emoticon>
+	<emoticon defaultKey="🌞" image="1f31e.png" order="419" text="sun with face"><alt>:sun_with_face:</alt></emoticon>
+	<emoticon defaultKey="🌙" image="1f319.png" order="420" text="crescent moon"><alt>:crescent_moon:</alt></emoticon>
+	<emoticon defaultKey="🌟" image="1f31f.png" order="422" text="glowing star"><alt>:star2:</alt></emoticon>
+	<emoticon defaultKey="💫" image="1f4ab.png" order="423" text="dizzy symbol"><alt>:dizzy:</alt></emoticon>
+	<emoticon defaultKey="✨ " image="2728.png" order="424" text="sparkles"><alt>:sparkles:</alt></emoticon>
+	<emoticon defaultKey="☄ " image="2604.png" order="425" text="comet"><alt>:comet:</alt></emoticon>
+	<emoticon defaultKey="☀ " image="2600.png" order="426" text="black sun with rays"><alt>:sunny:</alt></emoticon>
+	<emoticon defaultKey="🌤" image="1f324.png" order="427" text="white sun with small cloud"><alt>:white_sun_small_cloud:</alt></emoticon>
+	<emoticon defaultKey="⛅ " image="26c5.png" order="428" text="sun behind cloud"><alt>:partly_sunny:</alt></emoticon>
+	<emoticon defaultKey="🌥" image="1f325.png" order="429" text="white sun behind cloud"><alt>:white_sun_cloud:</alt></emoticon>
+	<emoticon defaultKey="🌦" image="1f326.png" order="430" text="white sun behind cloud with rain"><alt>:white_sun_rain_cloud:</alt></emoticon>
+	<emoticon defaultKey="☁ " image="2601.png" order="431" text="cloud"><alt>:cloud:</alt></emoticon>
+	<emoticon defaultKey="🌧" image="1f327.png" order="432" text="cloud with rain"><alt>:cloud_rain:</alt></emoticon>
+	<emoticon defaultKey="⛈ " image="26c8.png" order="433" text="thunder cloud and rain"><alt>:thunder_cloud_rain:</alt></emoticon>
+	<emoticon defaultKey="🌩" image="1f329.png" order="434" text="cloud with lightning"><alt>:cloud_lightning:</alt></emoticon>
+	<emoticon defaultKey="⚡ " image="26a1.png" order="435" text="high voltage sign"><alt>:zap:</alt></emoticon>
+	<emoticon defaultKey="🔥" image="1f525.png" order="436" text="fire"><alt>:fire:</alt></emoticon>
+	<emoticon defaultKey="💥" image="1f4a5.png" order="437" text="collision symbol"><alt>:boom:</alt></emoticon>
+	<emoticon defaultKey="❄ " image="2744.png" order="438" text="snowflake"><alt>:snowflake:</alt></emoticon>
+	<emoticon defaultKey="🌨" image="1f328.png" order="439" text="cloud with snow"><alt>:cloud_snow:</alt></emoticon>
+	<emoticon defaultKey="☃ " image="2603.png" order="440" text="snowman"><alt>:snowman2:</alt></emoticon>
+	<emoticon defaultKey="⛄ " image="26c4.png" order="441" text="snowman without snow"><alt>:snowman:</alt></emoticon>
+	<emoticon defaultKey="🌬" image="1f32c.png" order="442" text="wind blowing face"><alt>:wind_blowing_face:</alt></emoticon>
+	<emoticon defaultKey="💨" image="1f4a8.png" order="443" text="dash symbol"><alt>:dash:</alt></emoticon>
+	<emoticon defaultKey="🌪" image="1f32a.png" order="444" text="cloud with tornado"><alt>:cloud_tornado:</alt></emoticon>
+	<emoticon defaultKey="🌫" image="1f32b.png" order="445" text="fog"><alt>:fog:</alt></emoticon>
+	<emoticon defaultKey="☂ " image="2602.png" order="446" text="umbrella"><alt>:umbrella2:</alt></emoticon>
+	<emoticon defaultKey="☔ " image="2614.png" order="447" text="umbrella with rain drops"><alt>:umbrella:</alt></emoticon>
+	<emoticon defaultKey="💧" image="1f4a7.png" order="448" text="droplet"><alt>:droplet:</alt></emoticon>
+	<emoticon defaultKey="💦" image="1f4a6.png" order="449" text="splashing sweat symbol"><alt>:sweat_drops:</alt></emoticon>
+	<emoticon defaultKey="🌊" image="1f30a.png" order="450" text="water wave"><alt>:ocean:</alt></emoticon>
+	<emoticon defaultKey="🍇" image="1f347.png" order="451" text="grapes"><alt>:grapes:</alt></emoticon>
+	<emoticon defaultKey="🍈" image="1f348.png" order="452" text="melon"><alt>:melon:</alt></emoticon>
+	<emoticon defaultKey="🍉" image="1f349.png" order="453" text="watermelon"><alt>:watermelon:</alt></emoticon>
+	<emoticon defaultKey="🍊" image="1f34a.png" order="454" text="tangerine"><alt>:tangerine:</alt></emoticon>
+	<emoticon defaultKey="🍋" image="1f34b.png" order="455" text="lemon"><alt>:lemon:</alt></emoticon>
+	<emoticon defaultKey="🍌" image="1f34c.png" order="456" text="banana"><alt>:banana:</alt></emoticon>
+	<emoticon defaultKey="🍍" image="1f34d.png" order="457" text="pineapple"><alt>:pineapple:</alt></emoticon>
+	<emoticon defaultKey="🍎" image="1f34e.png" order="458" text="red apple"><alt>:red_apple:</alt></emoticon>
+	<emoticon defaultKey="🍏" image="1f34f.png" order="459" text="green apple"><alt>:green_apple:</alt></emoticon>
+	<emoticon defaultKey="🍐" image="1f350.png" order="460" text="pear"><alt>:pear:</alt></emoticon>
+	<emoticon defaultKey="🍑" image="1f351.png" order="461" text="peach"><alt>:peach:</alt></emoticon>
+	<emoticon defaultKey="🍒" image="1f352.png" order="462" text="cherries"><alt>:cherries:</alt></emoticon>
+	<emoticon defaultKey="🍓" image="1f353.png" order="463" text="strawberry"><alt>:strawberry:</alt></emoticon>
+	<emoticon defaultKey="🍅" image="1f345.png" order="464" text="tomato"><alt>:tomato:</alt></emoticon>
+	<emoticon defaultKey="🍆" image="1f346.png" order="465" text="aubergine"><alt>:eggplant:</alt></emoticon>
+	<emoticon defaultKey="🌶" image="1f336.png" order="466" text="hot pepper"><alt>:hot_pepper:</alt></emoticon>
+	<emoticon defaultKey="🌽" image="1f33d.png" order="467" text="ear of maize"><alt>:corn:</alt></emoticon>
+	<emoticon defaultKey="🍠" image="1f360.png" order="468" text="roasted sweet potato"><alt>:sweet_potato:</alt></emoticon>
+	<emoticon defaultKey="🍯" image="1f36f.png" order="469" text="honey pot"><alt>:honey_pot:</alt></emoticon>
+	<emoticon defaultKey="🍞" image="1f35e.png" order="470" text="bread"><alt>:bread:</alt></emoticon>
+	<emoticon defaultKey="🧀" image="1f9c0.png" order="471" text="cheese wedge"><alt>:cheese:</alt></emoticon>
+	<emoticon defaultKey="🍗" image="1f357.png" order="472" text="poultry leg"><alt>:poultry_leg:</alt></emoticon>
+	<emoticon defaultKey="🍖" image="1f356.png" order="473" text="meat on bone"><alt>:meat_on_bone:</alt></emoticon>
+	<emoticon defaultKey="🍤" image="1f364.png" order="474" text="fried shrimp"><alt>:fried_shrimp:</alt></emoticon>
+	<emoticon defaultKey="🍳" image="1f373.png" order="475" text="cooking"><alt>:egg:</alt></emoticon>
+	<emoticon defaultKey="🍔" image="1f354.png" order="476" text="hamburger"><alt>:hamburger:</alt></emoticon>
+	<emoticon defaultKey="🍟" image="1f35f.png" order="477" text="french fries"><alt>:fries:</alt></emoticon>
+	<emoticon defaultKey="🌭" image="1f32d.png" order="478" text="hot dog"><alt>:hotdog:</alt></emoticon>
+	<emoticon defaultKey="🍕" image="1f355.png" order="479" text="slice of pizza"><alt>:pizza:</alt></emoticon>
+	<emoticon defaultKey="🍝" image="1f35d.png" order="480" text="spaghetti"><alt>:spaghetti:</alt></emoticon>
+	<emoticon defaultKey="🌮" image="1f32e.png" order="481" text="taco"><alt>:taco:</alt></emoticon>
+	<emoticon defaultKey="🌯" image="1f32f.png" order="482" text="burrito"><alt>:burrito:</alt></emoticon>
+	<emoticon defaultKey="🍜" image="1f35c.png" order="483" text="steaming bowl"><alt>:ramen:</alt></emoticon>
+	<emoticon defaultKey="🍲" image="1f372.png" order="484" text="pot of food"><alt>:stew:</alt></emoticon>
+	<emoticon defaultKey="🍥" image="1f365.png" order="485" text="fish cake with swirl design"><alt>:fish_cake:</alt></emoticon>
+	<emoticon defaultKey="🍣" image="1f363.png" order="486" text="sushi"><alt>:sushi:</alt></emoticon>
+	<emoticon defaultKey="🍱" image="1f371.png" order="487" text="bento box"><alt>:bento:</alt></emoticon>
+	<emoticon defaultKey="🍛" image="1f35b.png" order="488" text="curry and rice"><alt>:curry:</alt></emoticon>
+	<emoticon defaultKey="🍙" image="1f359.png" order="489" text="rice ball"><alt>:rice_ball:</alt></emoticon>
+	<emoticon defaultKey="🍚" image="1f35a.png" order="490" text="cooked rice"><alt>:rice:</alt></emoticon>
+	<emoticon defaultKey="🍘" image="1f358.png" order="491" text="rice cracker"><alt>:rice_cracker:</alt></emoticon>
+	<emoticon defaultKey="🍢" image="1f362.png" order="492" text="oden"><alt>:oden:</alt></emoticon>
+	<emoticon defaultKey="🍡" image="1f361.png" order="493" text="dango"><alt>:dango:</alt></emoticon>
+	<emoticon defaultKey="🍧" image="1f367.png" order="494" text="shaved ice"><alt>:shaved_ice:</alt></emoticon>
+	<emoticon defaultKey="🍨" image="1f368.png" order="495" text="ice cream"><alt>:ice_cream:</alt></emoticon>
+	<emoticon defaultKey="🍦" image="1f366.png" order="496" text="soft ice cream"><alt>:icecream:</alt></emoticon>
+	<emoticon defaultKey="🍰" image="1f370.png" order="497" text="shortcake"><alt>:cake:</alt></emoticon>
+	<emoticon defaultKey="🍮" image="1f36e.png" order="499" text="custard"><alt>:custard:</alt></emoticon>
+	<emoticon defaultKey="🍬" image="1f36c.png" order="500" text="candy"><alt>:candy:</alt></emoticon>
+	<emoticon defaultKey="🍭" image="1f36d.png" order="501" text="lollipop"><alt>:lollipop:</alt></emoticon>
+	<emoticon defaultKey="🍫" image="1f36b.png" order="502" text="chocolate bar"><alt>:chocolate_bar:</alt></emoticon>
+	<emoticon defaultKey="🍿" image="1f37f.png" order="503" text="popcorn"><alt>:popcorn:</alt></emoticon>
+	<emoticon defaultKey="🍩" image="1f369.png" order="504" text="doughnut"><alt>:doughnut:</alt></emoticon>
+	<emoticon defaultKey="🍪" image="1f36a.png" order="505" text="cookie"><alt>:cookie:</alt></emoticon>
+	<emoticon defaultKey="🍺" image="1f37a.png" order="506" text="beer mug"><alt>:beer:</alt></emoticon>
+	<emoticon defaultKey="🍻" image="1f37b.png" order="507" text="clinking beer mugs"><alt>:beers:</alt></emoticon>
+	<emoticon defaultKey="🍷" image="1f377.png" order="508" text="wine glass"><alt>:wine_glass:</alt></emoticon>
+	<emoticon defaultKey="🍸" image="1f378.png" order="509" text="cocktail glass"><alt>:cocktail:</alt></emoticon>
+	<emoticon defaultKey="🍹" image="1f379.png" order="510" text="tropical drink"><alt>:tropical_drink:</alt></emoticon>
+	<emoticon defaultKey="🍾" image="1f37e.png" order="511" text="bottle with popping cork"><alt>:champagne:</alt></emoticon>
+	<emoticon defaultKey="🍶" image="1f376.png" order="512" text="sake bottle and cup"><alt>:sake:</alt></emoticon>
+	<emoticon defaultKey="🍵" image="1f375.png" order="513" text="teacup without handle"><alt>:tea:</alt></emoticon>
+	<emoticon defaultKey="🍼" image="1f37c.png" order="515" text="baby bottle"><alt>:baby_bottle:</alt></emoticon>
+	<emoticon defaultKey="🍴" image="1f374.png" order="516" text="fork and knife"><alt>:fork_and_knife:</alt></emoticon>
+	<emoticon defaultKey="🍽" image="1f37d.png" order="517" text="fork and knife with plate"><alt>:fork_knife_plate:</alt></emoticon>
+	<emoticon defaultKey="⚽ " image="26bd.png" order="518" text="soccer ball"><alt>:soccer:</alt></emoticon>
+	<emoticon defaultKey="🏀" image="1f3c0.png" order="519" text="basketball and hoop"><alt>:basketball:</alt></emoticon>
+	<emoticon defaultKey="🏈" image="1f3c8.png" order="520" text="american football"><alt>:football:</alt></emoticon>
+	<emoticon defaultKey="⚾ " image="26be.png" order="521" text="baseball"><alt>:baseball:</alt></emoticon>
+	<emoticon defaultKey="🎾" image="1f3be.png" order="522" text="tennis racquet and ball"><alt>:tennis:</alt></emoticon>
+	<emoticon defaultKey="🏐" image="1f3d0.png" order="523" text="volleyball"><alt>:volleyball:</alt></emoticon>
+	<emoticon defaultKey="🏉" image="1f3c9.png" order="524" text="rugby football"><alt>:rugby_football:</alt></emoticon>
+	<emoticon defaultKey="🎱" image="1f3b1.png" order="525" text="billiards"><alt>:8ball:</alt></emoticon>
+	<emoticon defaultKey="⛳ " image="26f3.png" order="526" text="flag in hole"><alt>:golf:</alt></emoticon>
+	<emoticon defaultKey="🏌" image="1f3cc.png" order="527" text="golfer"><alt>:golfer:</alt></emoticon>
+	<emoticon defaultKey="🏓" image="1f3d3.png" order="528" text="table tennis paddle and ball"><alt>:ping_pong:</alt></emoticon>
+	<emoticon defaultKey="🏸" image="1f3f8.png" order="529" text="badminton racquet"><alt>:badminton:</alt></emoticon>
+	<emoticon defaultKey="🏒" image="1f3d2.png" order="530" text="ice hockey stick and puck"><alt>:hockey:</alt></emoticon>
+	<emoticon defaultKey="🏑" image="1f3d1.png" order="531" text="field hockey stick and ball"><alt>:field_hockey:</alt></emoticon>
+	<emoticon defaultKey="🏏" image="1f3cf.png" order="532" text="cricket bat and ball"><alt>:cricket:</alt></emoticon>
+	<emoticon defaultKey="🎿" image="1f3bf.png" order="533" text="ski and ski boot"><alt>:ski:</alt></emoticon>
+	<emoticon defaultKey="⛷ " image="26f7.png" order="534" text="skier"><alt>:skier:</alt></emoticon>
+	<emoticon defaultKey="🏂" image="1f3c2.png" order="535" text="snowboarder"><alt>:snowboarder:</alt></emoticon>
+	<emoticon defaultKey="⛸ " image="26f8.png" order="536" text="ice skate"><alt>:ice_skate:</alt></emoticon>
+	<emoticon defaultKey="🏹" image="1f3f9.png" order="537" text="bow and arrow"><alt>:bow_and_arrow:</alt></emoticon>
+	<emoticon defaultKey="🎣" image="1f3a3.png" order="538" text="fishing pole and fish"><alt>:fishing_pole_and_fish:</alt></emoticon>
+	<emoticon defaultKey="🚣" image="1f6a3.png" order="539" text="rowboat"><alt>:rowboat:</alt></emoticon>
+	<emoticon defaultKey="🏊" image="1f3ca.png" order="540" text="swimmer"><alt>:swimmer:</alt></emoticon>
+	<emoticon defaultKey="🏄" image="1f3c4.png" order="541" text="surfer"><alt>:surfer:</alt></emoticon>
+	<emoticon defaultKey="🛀" image="1f6c0.png" order="542" text="bath"><alt>:bath:</alt></emoticon>
+	<emoticon defaultKey="⛹ " image="26f9.png" order="543" text="person with ball"><alt>:basketball_player:</alt></emoticon>
+	<emoticon defaultKey="🏋" image="1f3cb.png" order="544" text="weight lifter"><alt>:lifter:</alt></emoticon>
+	<emoticon defaultKey="🚴" image="1f6b4.png" order="545" text="bicyclist"><alt>:bicyclist:</alt></emoticon>
+	<emoticon defaultKey="🚵" image="1f6b5.png" order="546" text="mountain bicyclist"><alt>:mountain_bicyclist:</alt></emoticon>
+	<emoticon defaultKey="🏇" image="1f3c7.png" order="547" text="horse racing"><alt>:horse_racing:</alt></emoticon>
+	<emoticon defaultKey="🕴" image="1f574.png" order="548" text="man in business suit levitating"><alt>:levitate:</alt></emoticon>
+	<emoticon defaultKey="🏆" image="1f3c6.png" order="549" text="trophy"><alt>:trophy:</alt></emoticon>
+	<emoticon defaultKey="🎽" image="1f3bd.png" order="550" text="running shirt with sash"><alt>:running_shirt_with_sash:</alt></emoticon>
+	<emoticon defaultKey="🏅" image="1f3c5.png" order="551" text="sports medal"><alt>:medal:</alt></emoticon>
+	<emoticon defaultKey="🎖" image="1f396.png" order="552" text="military medal"><alt>:military_medal:</alt></emoticon>
+	<emoticon defaultKey="🎗" image="1f397.png" order="553" text="reminder ribbon"><alt>:reminder_ribbon:</alt></emoticon>
+	<emoticon defaultKey="🏵" image="1f3f5.png" order="554" text="rosette"><alt>:rosette:</alt></emoticon>
+	<emoticon defaultKey="🎫" image="1f3ab.png" order="555" text="ticket"><alt>:ticket:</alt></emoticon>
+	<emoticon defaultKey="🎟" image="1f39f.png" order="556" text="admission tickets"><alt>:tickets:</alt></emoticon>
+	<emoticon defaultKey="🎭" image="1f3ad.png" order="557" text="performing arts"><alt>:performing_arts:</alt></emoticon>
+	<emoticon defaultKey="🎨" image="1f3a8.png" order="558" text="artist palette"><alt>:art:</alt></emoticon>
+	<emoticon defaultKey="🎪" image="1f3aa.png" order="559" text="circus tent"><alt>:circus_tent:</alt></emoticon>
+	<emoticon defaultKey="🎤" image="1f3a4.png" order="560" text="microphone"><alt>:microphone:</alt></emoticon>
+	<emoticon defaultKey="🎧" image="1f3a7.png" order="561" text="headphone"><alt>:headphones:</alt></emoticon>
+	<emoticon defaultKey="🎼" image="1f3bc.png" order="562" text="musical score"><alt>:musical_score:</alt></emoticon>
+	<emoticon defaultKey="🎹" image="1f3b9.png" order="563" text="musical keyboard"><alt>:musical_keyboard:</alt></emoticon>
+	<emoticon defaultKey="🎷" image="1f3b7.png" order="564" text="saxophone"><alt>:saxophone:</alt></emoticon>
+	<emoticon defaultKey="🎺" image="1f3ba.png" order="565" text="trumpet"><alt>:trumpet:</alt></emoticon>
+	<emoticon defaultKey="🎸" image="1f3b8.png" order="566" text="guitar"><alt>:guitar:</alt></emoticon>
+	<emoticon defaultKey="🎻" image="1f3bb.png" order="567" text="violin"><alt>:violin:</alt></emoticon>
+	<emoticon defaultKey="🎬" image="1f3ac.png" order="568" text="clapper board"><alt>:clapper:</alt></emoticon>
+	<emoticon defaultKey="🎮" image="1f3ae.png" order="569" text="video game"><alt>:video_game:</alt></emoticon>
+	<emoticon defaultKey="👾" image="1f47e.png" order="570" text="alien monster"><alt>:space_invader:</alt></emoticon>
+	<emoticon defaultKey="🎯" image="1f3af.png" order="571" text="direct hit"><alt>:dart:</alt></emoticon>
+	<emoticon defaultKey="🎲" image="1f3b2.png" order="572" text="game die"><alt>:game_die:</alt></emoticon>
+	<emoticon defaultKey="🎰" image="1f3b0.png" order="573" text="slot machine"><alt>:slot_machine:</alt></emoticon>
+	<emoticon defaultKey="🎳" image="1f3b3.png" order="574" text="bowling"><alt>:bowling:</alt></emoticon>
+	<emoticon defaultKey="🚗" image="1f697.png" order="575" text="automobile"><alt>:red_car:</alt></emoticon>
+	<emoticon defaultKey="🚕" image="1f695.png" order="576" text="taxi"><alt>:taxi:</alt></emoticon>
+	<emoticon defaultKey="🚙" image="1f699.png" order="577" text="recreational vehicle"><alt>:blue_car:</alt></emoticon>
+	<emoticon defaultKey="🚌" image="1f68c.png" order="578" text="bus"><alt>:bus:</alt></emoticon>
+	<emoticon defaultKey="🚎" image="1f68e.png" order="579" text="trolleybus"><alt>:trolleybus:</alt></emoticon>
+	<emoticon defaultKey="🏎" image="1f3ce.png" order="580" text="racing car"><alt>:race_car:</alt></emoticon>
+	<emoticon defaultKey="🚓" image="1f693.png" order="581" text="police car"><alt>:police_car:</alt></emoticon>
+	<emoticon defaultKey="🚑" image="1f691.png" order="582" text="ambulance"><alt>:ambulance:</alt></emoticon>
+	<emoticon defaultKey="🚒" image="1f692.png" order="583" text="fire engine"><alt>:fire_engine:</alt></emoticon>
+	<emoticon defaultKey="🚐" image="1f690.png" order="584" text="minibus"><alt>:minibus:</alt></emoticon>
+	<emoticon defaultKey="🚚" image="1f69a.png" order="585" text="delivery truck"><alt>:truck:</alt></emoticon>
+	<emoticon defaultKey="🚛" image="1f69b.png" order="586" text="articulated lorry"><alt>:articulated_lorry:</alt></emoticon>
+	<emoticon defaultKey="🚜" image="1f69c.png" order="587" text="tractor"><alt>:tractor:</alt></emoticon>
+	<emoticon defaultKey="🏍" image="1f3cd.png" order="588" text="racing motorcycle"><alt>:motorcycle:</alt></emoticon>
+	<emoticon defaultKey="🚲" image="1f6b2.png" order="589" text="bicycle"><alt>:bike:</alt></emoticon>
+	<emoticon defaultKey="🚨" image="1f6a8.png" order="590" text="police cars revolving light"><alt>:rotating_light:</alt></emoticon>
+	<emoticon defaultKey="🚔" image="1f694.png" order="591" text="oncoming police car"><alt>:oncoming_police_car:</alt></emoticon>
+	<emoticon defaultKey="🚍" image="1f68d.png" order="592" text="oncoming bus"><alt>:oncoming_bus:</alt></emoticon>
+	<emoticon defaultKey="🚘" image="1f698.png" order="593" text="oncoming automobile"><alt>:oncoming_automobile:</alt></emoticon>
+	<emoticon defaultKey="🚖" image="1f696.png" order="594" text="oncoming taxi"><alt>:oncoming_taxi:</alt></emoticon>
+	<emoticon defaultKey="🚡" image="1f6a1.png" order="595" text="aerial tramway"><alt>:aerial_tramway:</alt></emoticon>
+	<emoticon defaultKey="🚠" image="1f6a0.png" order="596" text="mountain cableway"><alt>:mountain_cableway:</alt></emoticon>
+	<emoticon defaultKey="🚟" image="1f69f.png" order="597" text="suspension railway"><alt>:suspension_railway:</alt></emoticon>
+	<emoticon defaultKey="🚃" image="1f683.png" order="598" text="railway car"><alt>:railway_car:</alt></emoticon>
+	<emoticon defaultKey="🚋" image="1f68b.png" order="599" text="tram car"><alt>:train:</alt></emoticon>
+	<emoticon defaultKey="🚝" image="1f69d.png" order="600" text="monorail"><alt>:monorail:</alt></emoticon>
+	<emoticon defaultKey="🚄" image="1f684.png" order="601" text="high-speed train"><alt>:bullettrain_side:</alt></emoticon>
+	<emoticon defaultKey="🚅" image="1f685.png" order="602" text="high-speed train with bullet nose"><alt>:bullettrain_front:</alt></emoticon>
+	<emoticon defaultKey="🚈" image="1f688.png" order="603" text="light rail"><alt>:light_rail:</alt></emoticon>
+	<emoticon defaultKey="🚞" image="1f69e.png" order="604" text="mountain railway"><alt>:mountain_railway:</alt></emoticon>
+	<emoticon defaultKey="🚂" image="1f682.png" order="605" text="steam locomotive"><alt>:steam_locomotive:</alt></emoticon>
+	<emoticon defaultKey="🚆" image="1f686.png" order="606" text="train"><alt>:train2:</alt></emoticon>
+	<emoticon defaultKey="🚇" image="1f687.png" order="607" text="metro"><alt>:metro:</alt></emoticon>
+	<emoticon defaultKey="🚊" image="1f68a.png" order="608" text="tram"><alt>:tram:</alt></emoticon>
+	<emoticon defaultKey="🚉" image="1f689.png" order="609" text="station"><alt>:station:</alt></emoticon>
+	<emoticon defaultKey="🚁" image="1f681.png" order="610" text="helicopter"><alt>:helicopter:</alt></emoticon>
+	<emoticon defaultKey="🛩" image="1f6e9.png" order="611" text="small airplane"><alt>:airplane_small:</alt></emoticon>
+	<emoticon defaultKey="✈ " image="2708.png" order="612" text="airplane"><alt>:airplane:</alt></emoticon>
+	<emoticon defaultKey="🛫" image="1f6eb.png" order="613" text="airplane departure"><alt>:airplane_departure:</alt></emoticon>
+	<emoticon defaultKey="🛬" image="1f6ec.png" order="614" text="airplane arriving"><alt>:airplane_arriving:</alt></emoticon>
+	<emoticon defaultKey="⛵ " image="26f5.png" order="615" text="sailboat"><alt>:sailboat:</alt></emoticon>
+	<emoticon defaultKey="🛥" image="1f6e5.png" order="616" text="motorboat"><alt>:motorboat:</alt></emoticon>
+	<emoticon defaultKey="🚤" image="1f6a4.png" order="617" text="speedboat"><alt>:speedboat:</alt></emoticon>
+	<emoticon defaultKey="⛴ " image="26f4.png" order="618" text="ferry"><alt>:ferry:</alt></emoticon>
+	<emoticon defaultKey="🛳" image="1f6f3.png" order="619" text="passenger ship"><alt>:cruise_ship:</alt></emoticon>
+	<emoticon defaultKey="🚀" image="1f680.png" order="620" text="rocket"><alt>:rocket:</alt></emoticon>
+	<emoticon defaultKey="🛰" image="1f6f0.png" order="621" text="satellite"><alt>:satellite_orbital:</alt></emoticon>
+	<emoticon defaultKey="💺" image="1f4ba.png" order="622" text="seat"><alt>:seat:</alt></emoticon>
+	<emoticon defaultKey="⚓ " image="2693.png" order="623" text="anchor"><alt>:anchor:</alt></emoticon>
+	<emoticon defaultKey="🚧" image="1f6a7.png" order="624" text="construction sign"><alt>:construction:</alt></emoticon>
+	<emoticon defaultKey="⛽ " image="26fd.png" order="625" text="fuel pump"><alt>:fuelpump:</alt></emoticon>
+	<emoticon defaultKey="🚏" image="1f68f.png" order="626" text="bus stop"><alt>:busstop:</alt></emoticon>
+	<emoticon defaultKey="🚦" image="1f6a6.png" order="627" text="vertical traffic light"><alt>:vertical_traffic_light:</alt></emoticon>
+	<emoticon defaultKey="🚥" image="1f6a5.png" order="628" text="horizontal traffic light"><alt>:traffic_light:</alt></emoticon>
+	<emoticon defaultKey="🏁" image="1f3c1.png" order="629" text="chequered flag"><alt>:checkered_flag:</alt></emoticon>
+	<emoticon defaultKey="🚢" image="1f6a2.png" order="630" text="ship"><alt>:ship:</alt></emoticon>
+	<emoticon defaultKey="🎡" image="1f3a1.png" order="631" text="ferris wheel"><alt>:ferris_wheel:</alt></emoticon>
+	<emoticon defaultKey="🎢" image="1f3a2.png" order="632" text="roller coaster"><alt>:roller_coaster:</alt></emoticon>
+	<emoticon defaultKey="🎠" image="1f3a0.png" order="633" text="carousel horse"><alt>:carousel_horse:</alt></emoticon>
+	<emoticon defaultKey="🏗" image="1f3d7.png" order="634" text="building construction"><alt>:construction_site:</alt></emoticon>
+	<emoticon defaultKey="🌁" image="1f301.png" order="635" text="foggy"><alt>:foggy:</alt></emoticon>
+	<emoticon defaultKey="🗼" image="1f5fc.png" order="636" text="tokyo tower"><alt>:tokyo_tower:</alt></emoticon>
+	<emoticon defaultKey="🏭" image="1f3ed.png" order="637" text="factory"><alt>:factory:</alt></emoticon>
+	<emoticon defaultKey="⛲ " image="26f2.png" order="638" text="fountain"><alt>:fountain:</alt></emoticon>
+	<emoticon defaultKey="🎑" image="1f391.png" order="639" text="moon viewing ceremony"><alt>:rice_scene:</alt></emoticon>
+	<emoticon defaultKey="⛰ " image="26f0.png" order="640" text="mountain"><alt>:mountain:</alt></emoticon>
+	<emoticon defaultKey="🏔" image="1f3d4.png" order="641" text="snow capped mountain"><alt>:mountain_snow:</alt></emoticon>
+	<emoticon defaultKey="🗻" image="1f5fb.png" order="642" text="mount fuji"><alt>:mount_fuji:</alt></emoticon>
+	<emoticon defaultKey="🌋" image="1f30b.png" order="643" text="volcano"><alt>:volcano:</alt></emoticon>
+	<emoticon defaultKey="🗾" image="1f5fe.png" order="644" text="silhouette of japan"><alt>:japan:</alt></emoticon>
+	<emoticon defaultKey="🏕" image="1f3d5.png" order="645" text="camping"><alt>:camping:</alt></emoticon>
+	<emoticon defaultKey="⛺ " image="26fa.png" order="646" text="tent"><alt>:tent:</alt></emoticon>
+	<emoticon defaultKey="🏞" image="1f3de.png" order="647" text="national park"><alt>:park:</alt></emoticon>
+	<emoticon defaultKey="🛣" image="1f6e3.png" order="648" text="motorway"><alt>:motorway:</alt></emoticon>
+	<emoticon defaultKey="🛤" image="1f6e4.png" order="649" text="railway track"><alt>:railway_track:</alt></emoticon>
+	<emoticon defaultKey="🌅" image="1f305.png" order="650" text="sunrise"><alt>:sunrise:</alt></emoticon>
+	<emoticon defaultKey="🌄" image="1f304.png" order="651" text="sunrise over mountains"><alt>:sunrise_over_mountains:</alt></emoticon>
+	<emoticon defaultKey="🏜" image="1f3dc.png" order="652" text="desert"><alt>:desert:</alt></emoticon>
+	<emoticon defaultKey="🏖" image="1f3d6.png" order="653" text="beach with umbrella"><alt>:beach:</alt></emoticon>
+	<emoticon defaultKey="🏝" image="1f3dd.png" order="654" text="desert island"><alt>:island:</alt></emoticon>
+	<emoticon defaultKey="🌇" image="1f307.png" order="655" text="sunset over buildings"><alt>:city_sunset:</alt></emoticon>
+	<emoticon defaultKey="🌆" image="1f306.png" order="656" text="cityscape at dusk"><alt>:city_dusk:</alt></emoticon>
+	<emoticon defaultKey="🏙" image="1f3d9.png" order="657" text="cityscape"><alt>:cityscape:</alt></emoticon>
+	<emoticon defaultKey="🌃" image="1f303.png" order="658" text="night with stars"><alt>:night_with_stars:</alt></emoticon>
+	<emoticon defaultKey="🌉" image="1f309.png" order="659" text="bridge at night"><alt>:bridge_at_night:</alt></emoticon>
+	<emoticon defaultKey="🌌" image="1f30c.png" order="660" text="milky way"><alt>:milky_way:</alt></emoticon>
+	<emoticon defaultKey="🌠" image="1f320.png" order="661" text="shooting star"><alt>:stars:</alt></emoticon>
+	<emoticon defaultKey="🎇" image="1f387.png" order="662" text="firework sparkler"><alt>:sparkler:</alt></emoticon>
+	<emoticon defaultKey="🎆" image="1f386.png" order="663" text="fireworks"><alt>:fireworks:</alt></emoticon>
+	<emoticon defaultKey="🌈" image="1f308.png" order="664" text="rainbow"><alt>:rainbow:</alt></emoticon>
+	<emoticon defaultKey="🏘" image="1f3d8.png" order="665" text="house buildings"><alt>:homes:</alt></emoticon>
+	<emoticon defaultKey="🏰" image="1f3f0.png" order="666" text="european castle"><alt>:european_castle:</alt></emoticon>
+	<emoticon defaultKey="🏯" image="1f3ef.png" order="667" text="japanese castle"><alt>:japanese_castle:</alt></emoticon>
+	<emoticon defaultKey="🏟" image="1f3df.png" order="668" text="stadium"><alt>:stadium:</alt></emoticon>
+	<emoticon defaultKey="🗽" image="1f5fd.png" order="669" text="statue of liberty"><alt>:statue_of_liberty:</alt></emoticon>
+	<emoticon defaultKey="🏠" image="1f3e0.png" order="670" text="house building"><alt>:house:</alt></emoticon>
+	<emoticon defaultKey="🏡" image="1f3e1.png" order="671" text="house with garden"><alt>:house_with_garden:</alt></emoticon>
+	<emoticon defaultKey="🏚" image="1f3da.png" order="672" text="derelict house building"><alt>:house_abandoned:</alt></emoticon>
+	<emoticon defaultKey="🏢" image="1f3e2.png" order="673" text="office building"><alt>:office:</alt></emoticon>
+	<emoticon defaultKey="🏬" image="1f3ec.png" order="674" text="department store"><alt>:department_store:</alt></emoticon>
+	<emoticon defaultKey="🏣" image="1f3e3.png" order="675" text="japanese post office"><alt>:post_office:</alt></emoticon>
+	<emoticon defaultKey="🏤" image="1f3e4.png" order="676" text="european post office"><alt>:european_post_office:</alt></emoticon>
+	<emoticon defaultKey="🏥" image="1f3e5.png" order="677" text="hospital"><alt>:hospital:</alt></emoticon>
+	<emoticon defaultKey="🏦" image="1f3e6.png" order="678" text="bank"><alt>:bank:</alt></emoticon>
+	<emoticon defaultKey="🏨" image="1f3e8.png" order="679" text="hotel"><alt>:hotel:</alt></emoticon>
+	<emoticon defaultKey="🏪" image="1f3ea.png" order="680" text="convenience store"><alt>:convenience_store:</alt></emoticon>
+	<emoticon defaultKey="🏫" image="1f3eb.png" order="681" text="school"><alt>:school:</alt></emoticon>
+	<emoticon defaultKey="🏩" image="1f3e9.png" order="682" text="love hotel"><alt>:love_hotel:</alt></emoticon>
+	<emoticon defaultKey="💒" image="1f492.png" order="683" text="wedding"><alt>:wedding:</alt></emoticon>
+	<emoticon defaultKey="🏛" image="1f3db.png" order="684" text="classical building"><alt>:classical_building:</alt></emoticon>
+	<emoticon defaultKey="⛪ " image="26ea.png" order="685" text="church"><alt>:church:</alt></emoticon>
+	<emoticon defaultKey="🕌" image="1f54c.png" order="686" text="mosque"><alt>:mosque:</alt></emoticon>
+	<emoticon defaultKey="🕍" image="1f54d.png" order="687" text="synagogue"><alt>:synagogue:</alt></emoticon>
+	<emoticon defaultKey="🕋" image="1f54b.png" order="688" text="kaaba"><alt>:kaaba:</alt></emoticon>
+	<emoticon defaultKey="⛩ " image="26e9.png" order="689" text="shinto shrine"><alt>:shinto_shrine:</alt></emoticon>
+	<emoticon defaultKey="⌚ " image="231a.png" order="690" text="watch"><alt>:watch:</alt></emoticon>
+	<emoticon defaultKey="📱" image="1f4f1.png" order="691" text="mobile phone"><alt>:iphone:</alt></emoticon>
+	<emoticon defaultKey="📲" image="1f4f2.png" order="692" text="mobile phone with rightwards arrow at left"><alt>:calling:</alt></emoticon>
+	<emoticon defaultKey="💻" image="1f4bb.png" order="693" text="personal computer"><alt>:computer:</alt></emoticon>
+	<emoticon defaultKey="⌨ " image="2328.png" order="694" text="keyboard"><alt>:keyboard:</alt></emoticon>
+	<emoticon defaultKey="🖥" image="1f5a5.png" order="695" text="desktop computer"><alt>:desktop:</alt></emoticon>
+	<emoticon defaultKey="🖨" image="1f5a8.png" order="696" text="printer"><alt>:printer:</alt></emoticon>
+	<emoticon defaultKey="🖱" image="1f5b1.png" order="697" text="three button mouse"><alt>:mouse_three_button:</alt></emoticon>
+	<emoticon defaultKey="🖲" image="1f5b2.png" order="698" text="trackball"><alt>:trackball:</alt></emoticon>
+	<emoticon defaultKey="🕹" image="1f579.png" order="699" text="joystick"><alt>:joystick:</alt></emoticon>
+	<emoticon defaultKey="🗜" image="1f5dc.png" order="700" text="compression"><alt>:compression:</alt></emoticon>
+	<emoticon defaultKey="💽" image="1f4bd.png" order="701" text="minidisc"><alt>:minidisc:</alt></emoticon>
+	<emoticon defaultKey="💾" image="1f4be.png" order="702" text="floppy disk"><alt>:floppy_disk:</alt></emoticon>
+	<emoticon defaultKey="💿" image="1f4bf.png" order="703" text="optical disc"><alt>:cd:</alt></emoticon>
+	<emoticon defaultKey="📀" image="1f4c0.png" order="704" text="dvd"><alt>:dvd:</alt></emoticon>
+	<emoticon defaultKey="📼" image="1f4fc.png" order="705" text="videocassette"><alt>:vhs:</alt></emoticon>
+	<emoticon defaultKey="📷" image="1f4f7.png" order="706" text="camera"><alt>:camera:</alt></emoticon>
+	<emoticon defaultKey="📸" image="1f4f8.png" order="707" text="camera with flash"><alt>:camera_with_flash:</alt></emoticon>
+	<emoticon defaultKey="📹" image="1f4f9.png" order="708" text="video camera"><alt>:video_camera:</alt></emoticon>
+	<emoticon defaultKey="🎥" image="1f3a5.png" order="709" text="movie camera"><alt>:movie_camera:</alt></emoticon>
+	<emoticon defaultKey="📽" image="1f4fd.png" order="710" text="film projector"><alt>:projector:</alt></emoticon>
+	<emoticon defaultKey="🎞" image="1f39e.png" order="711" text="film frames"><alt>:film_frames:</alt></emoticon>
+	<emoticon defaultKey="📞" image="1f4de.png" order="712" text="telephone receiver"><alt>:telephone_receiver:</alt></emoticon>
+	<emoticon defaultKey="☎ " image="260e.png" order="713" text="black telephone"><alt>:telephone:</alt></emoticon>
+	<emoticon defaultKey="📟" image="1f4df.png" order="714" text="pager"><alt>:pager:</alt></emoticon>
+	<emoticon defaultKey="📠" image="1f4e0.png" order="715" text="fax machine"><alt>:fax:</alt></emoticon>
+	<emoticon defaultKey="📺" image="1f4fa.png" order="716" text="television"><alt>:tv:</alt></emoticon>
+	<emoticon defaultKey="📻" image="1f4fb.png" order="717" text="radio"><alt>:radio:</alt></emoticon>
+	<emoticon defaultKey="🎙" image="1f399.png" order="718" text="studio microphone"><alt>:microphone2:</alt></emoticon>
+	<emoticon defaultKey="🎚" image="1f39a.png" order="719" text="level slider"><alt>:level_slider:</alt></emoticon>
+	<emoticon defaultKey="🎛" image="1f39b.png" order="720" text="control knobs"><alt>:control_knobs:</alt></emoticon>
+	<emoticon defaultKey="⏱ " image="23f1.png" order="721" text="stopwatch"><alt>:stopwatch:</alt></emoticon>
+	<emoticon defaultKey="⏲ " image="23f2.png" order="722" text="timer clock"><alt>:timer:</alt></emoticon>
+	<emoticon defaultKey="⏰ " image="23f0.png" order="723" text="alarm clock"><alt>:alarm_clock:</alt></emoticon>
+	<emoticon defaultKey="🕰" image="1f570.png" order="724" text="mantlepiece clock"><alt>:clock:</alt></emoticon>
+	<emoticon defaultKey="⏳ " image="23f3.png" order="725" text="hourglass with flowing sand"><alt>:hourglass_flowing_sand:</alt></emoticon>
+	<emoticon defaultKey="⌛ " image="231b.png" order="726" text="hourglass"><alt>:hourglass:</alt></emoticon>
+	<emoticon defaultKey="📡" image="1f4e1.png" order="727" text="satellite antenna"><alt>:satellite:</alt></emoticon>
+	<emoticon defaultKey="🔋" image="1f50b.png" order="728" text="battery"><alt>:battery:</alt></emoticon>
+	<emoticon defaultKey="🔌" image="1f50c.png" order="729" text="electric plug"><alt>:electric_plug:</alt></emoticon>
+	<emoticon defaultKey="💡" image="1f4a1.png" order="730" text="electric light bulb"><alt>:bulb:</alt></emoticon>
+	<emoticon defaultKey="🔦" image="1f526.png" order="731" text="electric torch"><alt>:flashlight:</alt></emoticon>
+	<emoticon defaultKey="🕯" image="1f56f.png" order="732" text="candle"><alt>:candle:</alt></emoticon>
+	<emoticon defaultKey="🗑" image="1f5d1.png" order="733" text="wastebasket"><alt>:wastebasket:</alt></emoticon>
+	<emoticon defaultKey="🛢" image="1f6e2.png" order="734" text="oil drum"><alt>:oil:</alt></emoticon>
+	<emoticon defaultKey="💸" image="1f4b8.png" order="735" text="money with wings"><alt>:money_with_wings:</alt></emoticon>
+	<emoticon defaultKey="💵" image="1f4b5.png" order="736" text="banknote with dollar sign"><alt>:dollar:</alt></emoticon>
+	<emoticon defaultKey="💴" image="1f4b4.png" order="737" text="banknote with yen sign"><alt>:yen:</alt></emoticon>
+	<emoticon defaultKey="💶" image="1f4b6.png" order="738" text="banknote with euro sign"><alt>:euro:</alt></emoticon>
+	<emoticon defaultKey="💷" image="1f4b7.png" order="739" text="banknote with pound sign"><alt>:pound:</alt></emoticon>
+	<emoticon defaultKey="💰" image="1f4b0.png" order="740" text="money bag"><alt>:moneybag:</alt></emoticon>
+	<emoticon defaultKey="💳" image="1f4b3.png" order="741" text="credit card"><alt>:credit_card:</alt></emoticon>
+	<emoticon defaultKey="💎" image="1f48e.png" order="742" text="gem stone"><alt>:gem:</alt></emoticon>
+	<emoticon defaultKey="⚖ " image="2696.png" order="743" text="scales"><alt>:scales:</alt></emoticon>
+	<emoticon defaultKey="🔧" image="1f527.png" order="744" text="wrench"><alt>:wrench:</alt></emoticon>
+	<emoticon defaultKey="🔨" image="1f528.png" order="745" text="hammer"><alt>:hammer:</alt></emoticon>
+	<emoticon defaultKey="⚒ " image="2692.png" order="746" text="hammer and pick"><alt>:hammer_pick:</alt></emoticon>
+	<emoticon defaultKey="🛠" image="1f6e0.png" order="747" text="hammer and wrench"><alt>:tools:</alt></emoticon>
+	<emoticon defaultKey="⛏ " image="26cf.png" order="748" text="pick"><alt>:pick:</alt></emoticon>
+	<emoticon defaultKey="🔩" image="1f529.png" order="749" text="nut and bolt"><alt>:nut_and_bolt:</alt></emoticon>
+	<emoticon defaultKey="⚙ " image="2699.png" order="750" text="gear"><alt>:gear:</alt></emoticon>
+	<emoticon defaultKey="⛓ " image="26d3.png" order="751" text="chains"><alt>:chains:</alt></emoticon>
+	<emoticon defaultKey="🔫" image="1f52b.png" order="752" text="pistol"><alt>:gun:</alt></emoticon>
+	<emoticon defaultKey="💣" image="1f4a3.png" order="753" text="bomb"><alt>:bomb:</alt></emoticon>
+	<emoticon defaultKey="🔪" image="1f52a.png" order="754" text="hocho"><alt>:knife:</alt></emoticon>
+	<emoticon defaultKey="🗡" image="1f5e1.png" order="755" text="dagger knife"><alt>:dagger:</alt></emoticon>
+	<emoticon defaultKey="⚔ " image="2694.png" order="756" text="crossed swords"><alt>:crossed_swords:</alt></emoticon>
+	<emoticon defaultKey="🛡" image="1f6e1.png" order="757" text="shield"><alt>:shield:</alt></emoticon>
+	<emoticon defaultKey="🚬" image="1f6ac.png" order="758" text="smoking symbol"><alt>:smoking:</alt></emoticon>
+	<emoticon defaultKey="☠ " image="2620.png" order="759" text="skull and crossbones"><alt>:skull_crossbones:</alt></emoticon>
+	<emoticon defaultKey="⚰ " image="26b0.png" order="760" text="coffin"><alt>:coffin:</alt></emoticon>
+	<emoticon defaultKey="⚱ " image="26b1.png" order="761" text="funeral urn"><alt>:urn:</alt></emoticon>
+	<emoticon defaultKey="🏺" image="1f3fa.png" order="762" text="amphora"><alt>:amphora:</alt></emoticon>
+	<emoticon defaultKey="🔮" image="1f52e.png" order="763" text="crystal ball"><alt>:crystal_ball:</alt></emoticon>
+	<emoticon defaultKey="📿" image="1f4ff.png" order="764" text="prayer beads"><alt>:prayer_beads:</alt></emoticon>
+	<emoticon defaultKey="💈" image="1f488.png" order="765" text="barber pole"><alt>:barber:</alt></emoticon>
+	<emoticon defaultKey="⚗ " image="2697.png" order="766" text="alembic"><alt>:alembic:</alt></emoticon>
+	<emoticon defaultKey="🔭" image="1f52d.png" order="767" text="telescope"><alt>:telescope:</alt></emoticon>
+	<emoticon defaultKey="🔬" image="1f52c.png" order="768" text="microscope"><alt>:microscope:</alt></emoticon>
+	<emoticon defaultKey="🕳" image="1f573.png" order="769" text="hole"><alt>:hole:</alt></emoticon>
+	<emoticon defaultKey="💊" image="1f48a.png" order="770" text="pill"><alt>:pill:</alt></emoticon>
+	<emoticon defaultKey="💉" image="1f489.png" order="771" text="syringe"><alt>:syringe:</alt></emoticon>
+	<emoticon defaultKey="🌡" image="1f321.png" order="772" text="thermometer"><alt>:thermometer:</alt></emoticon>
+	<emoticon defaultKey="🏷" image="1f3f7.png" order="773" text="label"><alt>:label:</alt></emoticon>
+	<emoticon defaultKey="🔖" image="1f516.png" order="774" text="bookmark"><alt>:bookmark:</alt></emoticon>
+	<emoticon defaultKey="🚽" image="1f6bd.png" order="775" text="toilet"><alt>:toilet:</alt></emoticon>
+	<emoticon defaultKey="🚿" image="1f6bf.png" order="776" text="shower"><alt>:shower:</alt></emoticon>
+	<emoticon defaultKey="🛁" image="1f6c1.png" order="777" text="bathtub"><alt>:bathtub:</alt></emoticon>
+	<emoticon defaultKey="🔑" image="1f511.png" order="778" text="key"><alt>:key:</alt></emoticon>
+	<emoticon defaultKey="🗝" image="1f5dd.png" order="779" text="old key"><alt>:key2:</alt></emoticon>
+	<emoticon defaultKey="🛋" image="1f6cb.png" order="780" text="couch and lamp"><alt>:couch:</alt></emoticon>
+	<emoticon defaultKey="🛌" image="1f6cc.png" order="781" text="sleeping accommodation"><alt>:sleeping_accommodation:</alt></emoticon>
+	<emoticon defaultKey="🛏" image="1f6cf.png" order="782" text="bed"><alt>:bed:</alt></emoticon>
+	<emoticon defaultKey="🚪" image="1f6aa.png" order="783" text="door"><alt>:door:</alt></emoticon>
+	<emoticon defaultKey="🛎" image="1f6ce.png" order="784" text="bellhop bell"><alt>:bellhop:</alt></emoticon>
+	<emoticon defaultKey="🖼" image="1f5bc.png" order="785" text="frame with picture"><alt>:frame_photo:</alt></emoticon>
+	<emoticon defaultKey="🗺" image="1f5fa.png" order="786" text="world map"><alt>:map:</alt></emoticon>
+	<emoticon defaultKey="⛱ " image="26f1.png" order="787" text="umbrella on ground"><alt>:beach_umbrella:</alt></emoticon>
+	<emoticon defaultKey="🗿" image="1f5ff.png" order="788" text="moyai"><alt>:moyai:</alt></emoticon>
+	<emoticon defaultKey="🛍" image="1f6cd.png" order="789" text="shopping bags"><alt>:shopping_bags:</alt></emoticon>
+	<emoticon defaultKey="🎈" image="1f388.png" order="790" text="balloon"><alt>:balloon:</alt></emoticon>
+	<emoticon defaultKey="🎏" image="1f38f.png" order="791" text="carp streamer"><alt>:flags:</alt></emoticon>
+	<emoticon defaultKey="🎀" image="1f380.png" order="792" text="ribbon"><alt>:ribbon:</alt></emoticon>
+	<emoticon defaultKey="🎊" image="1f38a.png" order="794" text="confetti ball"><alt>:confetti_ball:</alt></emoticon>
+	<emoticon defaultKey="🎉" image="1f389.png" order="795" text="party popper"><alt>:tada:</alt></emoticon>
+	<emoticon defaultKey="🎎" image="1f38e.png" order="796" text="japanese dolls"><alt>:dolls:</alt></emoticon>
+	<emoticon defaultKey="🎐" image="1f390.png" order="797" text="wind chime"><alt>:wind_chime:</alt></emoticon>
+	<emoticon defaultKey="🎌" image="1f38c.png" order="798" text="crossed flags"><alt>:crossed_flags:</alt></emoticon>
+	<emoticon defaultKey="🏮" image="1f3ee.png" order="799" text="izakaya lantern"><alt>:izakaya_lantern:</alt></emoticon>
+	<emoticon defaultKey="✉ " image="2709.png" order="800" text="envelope"><alt>:envelope:</alt></emoticon>
+	<emoticon defaultKey="📩" image="1f4e9.png" order="801" text="envelope with downwards arrow above"><alt>:envelope_with_arrow:</alt></emoticon>
+	<emoticon defaultKey="📨" image="1f4e8.png" order="802" text="incoming envelope"><alt>:incoming_envelope:</alt></emoticon>
+	<emoticon defaultKey="📧" image="1f4e7.png" order="803" text="e-mail symbol"><alt>:e-mail:</alt></emoticon>
+	<emoticon defaultKey="💌" image="1f48c.png" order="804" text="love letter"><alt>:love_letter:</alt></emoticon>
+	<emoticon defaultKey="📮" image="1f4ee.png" order="805" text="postbox"><alt>:postbox:</alt></emoticon>
+	<emoticon defaultKey="📪" image="1f4ea.png" order="806" text="closed mailbox with lowered flag"><alt>:mailbox_closed:</alt></emoticon>
+	<emoticon defaultKey="📫" image="1f4eb.png" order="807" text="closed mailbox with raised flag"><alt>:mailbox:</alt></emoticon>
+	<emoticon defaultKey="📬" image="1f4ec.png" order="808" text="open mailbox with raised flag"><alt>:mailbox_with_mail:</alt></emoticon>
+	<emoticon defaultKey="📭" image="1f4ed.png" order="809" text="open mailbox with lowered flag"><alt>:mailbox_with_no_mail:</alt></emoticon>
+	<emoticon defaultKey="📯" image="1f4ef.png" order="811" text="postal horn"><alt>:postal_horn:</alt></emoticon>
+	<emoticon defaultKey="📥" image="1f4e5.png" order="812" text="inbox tray"><alt>:inbox_tray:</alt></emoticon>
+	<emoticon defaultKey="📤" image="1f4e4.png" order="813" text="outbox tray"><alt>:outbox_tray:</alt></emoticon>
+	<emoticon defaultKey="📜" image="1f4dc.png" order="814" text="scroll"><alt>:scroll:</alt></emoticon>
+	<emoticon defaultKey="📃" image="1f4c3.png" order="815" text="page with curl"><alt>:page_with_curl:</alt></emoticon>
+	<emoticon defaultKey="📑" image="1f4d1.png" order="816" text="bookmark tabs"><alt>:bookmark_tabs:</alt></emoticon>
+	<emoticon defaultKey="📊" image="1f4ca.png" order="817" text="bar chart"><alt>:bar_chart:</alt></emoticon>
+	<emoticon defaultKey="📈" image="1f4c8.png" order="818" text="chart with upwards trend"><alt>:chart_with_upwards_trend:</alt></emoticon>
+	<emoticon defaultKey="📉" image="1f4c9.png" order="819" text="chart with downwards trend"><alt>:chart_with_downwards_trend:</alt></emoticon>
+	<emoticon defaultKey="📄" image="1f4c4.png" order="820" text="page facing up"><alt>:page_facing_up:</alt></emoticon>
+	<emoticon defaultKey="📅" image="1f4c5.png" order="821" text="calendar"><alt>:date:</alt></emoticon>
+	<emoticon defaultKey="📆" image="1f4c6.png" order="822" text="tear-off calendar"><alt>:calendar:</alt></emoticon>
+	<emoticon defaultKey="🗓" image="1f5d3.png" order="823" text="spiral calendar pad"><alt>:calendar_spiral:</alt></emoticon>
+	<emoticon defaultKey="📇" image="1f4c7.png" order="824" text="card index"><alt>:card_index:</alt></emoticon>
+	<emoticon defaultKey="🗃" image="1f5c3.png" order="825" text="card file box"><alt>:card_box:</alt></emoticon>
+	<emoticon defaultKey="🗳" image="1f5f3.png" order="826" text="ballot box with ballot"><alt>:ballot_box:</alt></emoticon>
+	<emoticon defaultKey="🗄" image="1f5c4.png" order="827" text="file cabinet"><alt>:file_cabinet:</alt></emoticon>
+	<emoticon defaultKey="📋" image="1f4cb.png" order="828" text="clipboard"><alt>:clipboard:</alt></emoticon>
+	<emoticon defaultKey="🗒" image="1f5d2.png" order="829" text="spiral note pad"><alt>:notepad_spiral:</alt></emoticon>
+	<emoticon defaultKey="📁" image="1f4c1.png" order="830" text="file folder"><alt>:file_folder:</alt></emoticon>
+	<emoticon defaultKey="📂" image="1f4c2.png" order="831" text="open file folder"><alt>:open_file_folder:</alt></emoticon>
+	<emoticon defaultKey="🗂" image="1f5c2.png" order="832" text="card index dividers"><alt>:dividers:</alt></emoticon>
+	<emoticon defaultKey="🗞" image="1f5de.png" order="833" text="rolled-up newspaper"><alt>:newspaper2:</alt></emoticon>
+	<emoticon defaultKey="📰" image="1f4f0.png" order="834" text="newspaper"><alt>:newspaper:</alt></emoticon>
+	<emoticon defaultKey="📓" image="1f4d3.png" order="835" text="notebook"><alt>:notebook:</alt></emoticon>
+	<emoticon defaultKey="📕" image="1f4d5.png" order="836" text="closed book"><alt>:closed_book:</alt></emoticon>
+	<emoticon defaultKey="📗" image="1f4d7.png" order="837" text="green book"><alt>:green_book:</alt></emoticon>
+	<emoticon defaultKey="📘" image="1f4d8.png" order="838" text="blue book"><alt>:blue_book:</alt></emoticon>
+	<emoticon defaultKey="📙" image="1f4d9.png" order="839" text="orange book"><alt>:orange_book:</alt></emoticon>
+	<emoticon defaultKey="📔" image="1f4d4.png" order="840" text="notebook with decorative cover"><alt>:notebook_with_decorative_cover:</alt></emoticon>
+	<emoticon defaultKey="📒" image="1f4d2.png" order="841" text="ledger"><alt>:ledger:</alt></emoticon>
+	<emoticon defaultKey="📚" image="1f4da.png" order="842" text="books"><alt>:books:</alt></emoticon>
+	<emoticon defaultKey="📖" image="1f4d6.png" order="843" text="open book"><alt>:book:</alt></emoticon>
+	<emoticon defaultKey="🔗" image="1f517.png" order="844" text="link symbol"><alt>:link:</alt></emoticon>
+	<emoticon defaultKey="📎" image="1f4ce.png" order="845" text="paperclip"><alt>:paperclip:</alt></emoticon>
+	<emoticon defaultKey="🖇" image="1f587.png" order="846" text="linked paperclips"><alt>:paperclips:</alt></emoticon>
+	<emoticon defaultKey="✂ " image="2702.png" order="847" text="black scissors"><alt>:scissors:</alt></emoticon>
+	<emoticon defaultKey="📐" image="1f4d0.png" order="848" text="triangular ruler"><alt>:triangular_ruler:</alt></emoticon>
+	<emoticon defaultKey="📏" image="1f4cf.png" order="849" text="straight ruler"><alt>:straight_ruler:</alt></emoticon>
+	<emoticon defaultKey="📌" image="1f4cc.png" order="850" text="pushpin"><alt>:pushpin:</alt></emoticon>
+	<emoticon defaultKey="📍" image="1f4cd.png" order="851" text="round pushpin"><alt>:round_pushpin:</alt></emoticon>
+	<emoticon defaultKey="🚩" image="1f6a9.png" order="852" text="triangular flag on post"><alt>:triangular_flag_on_post:</alt></emoticon>
+	<emoticon defaultKey="🏳" image="1f3f3.png" order="853" text="waving white flag"><alt>:flag_white:</alt></emoticon>
+	<emoticon defaultKey="🏴" image="1f3f4.png" order="854" text="waving black flag"><alt>:flag_black:</alt></emoticon>
+	<emoticon defaultKey="🔐" image="1f510.png" order="855" text="closed lock with key"><alt>:closed_lock_with_key:</alt></emoticon>
+	<emoticon defaultKey="🔒" image="1f512.png" order="856" text="lock"><alt>:lock:</alt></emoticon>
+	<emoticon defaultKey="🔓" image="1f513.png" order="857" text="open lock"><alt>:unlock:</alt></emoticon>
+	<emoticon defaultKey="🔏" image="1f50f.png" order="858" text="lock with ink pen"><alt>:lock_with_ink_pen:</alt></emoticon>
+	<emoticon defaultKey="🖊" image="1f58a.png" order="859" text="lower left ballpoint pen"><alt>:pen_ballpoint:</alt></emoticon>
+	<emoticon defaultKey="🖋" image="1f58b.png" order="860" text="lower left fountain pen"><alt>:pen_fountain:</alt></emoticon>
+	<emoticon defaultKey="✒ " image="2712.png" order="861" text="black nib"><alt>:black_nib:</alt></emoticon>
+	<emoticon defaultKey="📝" image="1f4dd.png" order="862" text="memo"><alt>:pencil:</alt></emoticon>
+	<emoticon defaultKey="✏ " image="270f.png" order="863" text="pencil"><alt>:pencil2:</alt></emoticon>
+	<emoticon defaultKey="🖍" image="1f58d.png" order="864" text="lower left crayon"><alt>:crayon:</alt></emoticon>
+	<emoticon defaultKey="🖌" image="1f58c.png" order="865" text="lower left paintbrush"><alt>:paintbrush:</alt></emoticon>
+	<emoticon defaultKey="🔍" image="1f50d.png" order="866" text="left-pointing magnifying glass"><alt>:mag:</alt></emoticon>
+	<emoticon defaultKey="🔎" image="1f50e.png" order="867" text="right-pointing magnifying glass"><alt>:mag_right:</alt></emoticon>
+	<emoticon defaultKey="💛" image="1f49b.png" order="869" text="yellow heart"><alt>:yellow_heart:</alt></emoticon>
+	<emoticon defaultKey="💚" image="1f49a.png" order="870" text="green heart"><alt>:green_heart:</alt></emoticon>
+	<emoticon defaultKey="💙" image="1f499.png" order="871" text="blue heart"><alt>:blue_heart:</alt></emoticon>
+	<emoticon defaultKey="💜" image="1f49c.png" order="872" text="purple heart"><alt>:purple_heart:</alt></emoticon>
+	<emoticon defaultKey="❣ " image="2763.png" order="874" text="heavy heart exclamation mark ornament"><alt>:heart_exclamation:</alt></emoticon>
+	<emoticon defaultKey="💕" image="1f495.png" order="875" text="two hearts"><alt>:two_hearts:</alt></emoticon>
+	<emoticon defaultKey="💞" image="1f49e.png" order="876" text="revolving hearts"><alt>:revolving_hearts:</alt></emoticon>
+	<emoticon defaultKey="💓" image="1f493.png" order="877" text="beating heart"><alt>:heartbeat:</alt></emoticon>
+	<emoticon defaultKey="💗" image="1f497.png" order="878" text="growing heart"><alt>:heartpulse:</alt></emoticon>
+	<emoticon defaultKey="💖" image="1f496.png" order="879" text="sparkling heart"><alt>:sparkling_heart:</alt></emoticon>
+	<emoticon defaultKey="💘" image="1f498.png" order="880" text="heart with arrow"><alt>:cupid:</alt></emoticon>
+	<emoticon defaultKey="💝" image="1f49d.png" order="881" text="heart with ribbon"><alt>:gift_heart:</alt></emoticon>
+	<emoticon defaultKey="💟" image="1f49f.png" order="882" text="heart decoration"><alt>:heart_decoration:</alt></emoticon>
+	<emoticon defaultKey="☮ " image="262e.png" order="883" text="peace symbol"><alt>:peace:</alt></emoticon>
+	<emoticon defaultKey="✝ " image="271d.png" order="884" text="latin cross"><alt>:cross:</alt></emoticon>
+	<emoticon defaultKey="☪ " image="262a.png" order="885" text="star and crescent"><alt>:star_and_crescent:</alt></emoticon>
+	<emoticon defaultKey="🕉" image="1f549.png" order="886" text="om symbol"><alt>:om_symbol:</alt></emoticon>
+	<emoticon defaultKey="☸ " image="2638.png" order="887" text="wheel of dharma"><alt>:wheel_of_dharma:</alt></emoticon>
+	<emoticon defaultKey="✡ " image="2721.png" order="888" text="star of david"><alt>:star_of_david:</alt></emoticon>
+	<emoticon defaultKey="🔯" image="1f52f.png" order="889" text="six pointed star with middle dot"><alt>:six_pointed_star:</alt></emoticon>
+	<emoticon defaultKey="🕎" image="1f54e.png" order="890" text="menorah with nine branches"><alt>:menorah:</alt></emoticon>
+	<emoticon defaultKey="☯ " image="262f.png" order="891" text="yin yang"><alt>:yin_yang:</alt></emoticon>
+	<emoticon defaultKey="☦ " image="2626.png" order="892" text="orthodox cross"><alt>:orthodox_cross:</alt></emoticon>
+	<emoticon defaultKey="🛐" image="1f6d0.png" order="893" text="place of worship"><alt>:place_of_worship:</alt></emoticon>
+	<emoticon defaultKey="⛎ " image="26ce.png" order="894" text="ophiuchus"><alt>:ophiuchus:</alt></emoticon>
+	<emoticon defaultKey="♈ " image="2648.png" order="895" text="aries"><alt>:aries:</alt></emoticon>
+	<emoticon defaultKey="♉ " image="2649.png" order="896" text="taurus"><alt>:taurus:</alt></emoticon>
+	<emoticon defaultKey="♊ " image="264a.png" order="897" text="gemini"><alt>:gemini:</alt></emoticon>
+	<emoticon defaultKey="♋ " image="264b.png" order="898" text="cancer"><alt>:cancer:</alt></emoticon>
+	<emoticon defaultKey="♌ " image="264c.png" order="899" text="leo"><alt>:leo:</alt></emoticon>
+	<emoticon defaultKey="♍ " image="264d.png" order="900" text="virgo"><alt>:virgo:</alt></emoticon>
+	<emoticon defaultKey="♎ " image="264e.png" order="901" text="libra"><alt>:libra:</alt></emoticon>
+	<emoticon defaultKey="♏ " image="264f.png" order="902" text="scorpius"><alt>:scorpius:</alt></emoticon>
+	<emoticon defaultKey="♐ " image="2650.png" order="903" text="sagittarius"><alt>:sagittarius:</alt></emoticon>
+	<emoticon defaultKey="♑ " image="2651.png" order="904" text="capricorn"><alt>:capricorn:</alt></emoticon>
+	<emoticon defaultKey="♒ " image="2652.png" order="905" text="aquarius"><alt>:aquarius:</alt></emoticon>
+	<emoticon defaultKey="♓ " image="2653.png" order="906" text="pisces"><alt>:pisces:</alt></emoticon>
+	<emoticon defaultKey="🆔" image="1f194.png" order="907" text="squared id"><alt>:id:</alt></emoticon>
+	<emoticon defaultKey="⚛ " image="269b.png" order="908" text="atom symbol"><alt>:atom:</alt></emoticon>
+	<emoticon defaultKey="🈳" image="1f233.png" order="909" text="squared cjk unified ideograph-7a7a"><alt>:u7a7a:</alt></emoticon>
+	<emoticon defaultKey="🈹" image="1f239.png" order="910" text="squared cjk unified ideograph-5272"><alt>:u5272:</alt></emoticon>
+	<emoticon defaultKey="☢ " image="2622.png" order="911" text="radioactive sign"><alt>:radioactive:</alt></emoticon>
+	<emoticon defaultKey="☣ " image="2623.png" order="912" text="biohazard sign"><alt>:biohazard:</alt></emoticon>
+	<emoticon defaultKey="📴" image="1f4f4.png" order="913" text="mobile phone off"><alt>:mobile_phone_off:</alt></emoticon>
+	<emoticon defaultKey="📳" image="1f4f3.png" order="914" text="vibration mode"><alt>:vibration_mode:</alt></emoticon>
+	<emoticon defaultKey="🈶" image="1f236.png" order="915" text="squared cjk unified ideograph-6709"><alt>:u6709:</alt></emoticon>
+	<emoticon defaultKey="🈚" image="1f21a.png" order="916" text="squared cjk unified ideograph-7121"><alt>:u7121:</alt></emoticon>
+	<emoticon defaultKey="🈸" image="1f238.png" order="917" text="squared cjk unified ideograph-7533"><alt>:u7533:</alt></emoticon>
+	<emoticon defaultKey="🈺" image="1f23a.png" order="918" text="squared cjk unified ideograph-55b6"><alt>:u55b6:</alt></emoticon>
+	<emoticon defaultKey="🈷" image="1f237.png" order="919" text="squared cjk unified ideograph-6708"><alt>:u6708:</alt></emoticon>
+	<emoticon defaultKey="✴ " image="2734.png" order="920" text="eight pointed black star"><alt>:eight_pointed_black_star:</alt></emoticon>
+	<emoticon defaultKey="🆚" image="1f19a.png" order="921" text="squared vs"><alt>:vs:</alt></emoticon>
+	<emoticon defaultKey="🉑" image="1f251.png" order="922" text="circled ideograph accept"><alt>:accept:</alt></emoticon>
+	<emoticon defaultKey="💮" image="1f4ae.png" order="923" text="white flower"><alt>:white_flower:</alt></emoticon>
+	<emoticon defaultKey="🉐" image="1f250.png" order="924" text="circled ideograph advantage"><alt>:ideograph_advantage:</alt></emoticon>
+	<emoticon defaultKey="㊙ " image="3299.png" order="925" text="circled ideograph secret"><alt>:secret:</alt></emoticon>
+	<emoticon defaultKey="㊗ " image="3297.png" order="926" text="circled ideograph congratulation"><alt>:congratulations:</alt></emoticon>
+	<emoticon defaultKey="🈴" image="1f234.png" order="927" text="squared cjk unified ideograph-5408"><alt>:u5408:</alt></emoticon>
+	<emoticon defaultKey="🈵" image="1f235.png" order="928" text="squared cjk unified ideograph-6e80"><alt>:u6e80:</alt></emoticon>
+	<emoticon defaultKey="🈲" image="1f232.png" order="929" text="squared cjk unified ideograph-7981"><alt>:u7981:</alt></emoticon>
+	<emoticon defaultKey="🅰" image="1f170.png" order="930" text="negative squared latin capital letter a"><alt>:a:</alt></emoticon>
+	<emoticon defaultKey="🅱" image="1f171.png" order="931" text="negative squared latin capital letter b"><alt>:b:</alt></emoticon>
+	<emoticon defaultKey="🆎" image="1f18e.png" order="932" text="negative squared ab"><alt>:ab:</alt></emoticon>
+	<emoticon defaultKey="🆑" image="1f191.png" order="933" text="squared cl"><alt>:cl:</alt></emoticon>
+	<emoticon defaultKey="🅾" image="1f17e.png" order="934" text="negative squared latin capital letter o"><alt>:o2:</alt></emoticon>
+	<emoticon defaultKey="🆘" image="1f198.png" order="935" text="squared sos"><alt>:sos:</alt></emoticon>
+	<emoticon defaultKey="⛔ " image="26d4.png" order="936" text="no entry"><alt>:no_entry:</alt></emoticon>
+	<emoticon defaultKey="📛" image="1f4db.png" order="937" text="name badge"><alt>:name_badge:</alt></emoticon>
+	<emoticon defaultKey="🚫" image="1f6ab.png" order="938" text="no entry sign"><alt>:no_entry_sign:</alt></emoticon>
+	<emoticon defaultKey="❌ " image="274c.png" order="939" text="cross mark"><alt>:x:</alt></emoticon>
+	<emoticon defaultKey="⭕ " image="2b55.png" order="940" text="heavy large circle"><alt>:o:</alt></emoticon>
+	<emoticon defaultKey="💢" image="1f4a2.png" order="941" text="anger symbol"><alt>:anger:</alt></emoticon>
+	<emoticon defaultKey="♨ " image="2668.png" order="942" text="hot springs"><alt>:hotsprings:</alt></emoticon>
+	<emoticon defaultKey="🚷" image="1f6b7.png" order="943" text="no pedestrians"><alt>:no_pedestrians:</alt></emoticon>
+	<emoticon defaultKey="🚯" image="1f6af.png" order="944" text="do not litter symbol"><alt>:do_not_litter:</alt></emoticon>
+	<emoticon defaultKey="🚳" image="1f6b3.png" order="945" text="no bicycles"><alt>:no_bicycles:</alt></emoticon>
+	<emoticon defaultKey="🚱" image="1f6b1.png" order="946" text="non-potable water symbol"><alt>:non-potable_water:</alt></emoticon>
+	<emoticon defaultKey="🔞" image="1f51e.png" order="947" text="no one under eighteen symbol"><alt>:underage:</alt></emoticon>
+	<emoticon defaultKey="📵" image="1f4f5.png" order="948" text="no mobile phones"><alt>:no_mobile_phones:</alt></emoticon>
+	<emoticon defaultKey="❗ " image="2757.png" order="949" text="heavy exclamation mark symbol"><alt>:exclamation:</alt></emoticon>
+	<emoticon defaultKey="❕ " image="2755.png" order="950" text="white exclamation mark ornament"><alt>:grey_exclamation:</alt></emoticon>
+	<emoticon defaultKey="❓ " image="2753.png" order="951" text="black question mark ornament"><alt>:question:</alt></emoticon>
+	<emoticon defaultKey="❔ " image="2754.png" order="952" text="white question mark ornament"><alt>:grey_question:</alt></emoticon>
+	<emoticon defaultKey="‼ " image="203c.png" order="953" text="double exclamation mark"><alt>:bangbang:</alt></emoticon>
+	<emoticon defaultKey="⁉ " image="2049.png" order="954" text="exclamation question mark"><alt>:interrobang:</alt></emoticon>
+	<emoticon defaultKey="💯" image="1f4af.png" order="955" text="hundred points symbol"><alt>:100:</alt></emoticon>
+	<emoticon defaultKey="🔅" image="1f505.png" order="956" text="low brightness symbol"><alt>:low_brightness:</alt></emoticon>
+	<emoticon defaultKey="🔆" image="1f506.png" order="957" text="high brightness symbol"><alt>:high_brightness:</alt></emoticon>
+	<emoticon defaultKey="🔱" image="1f531.png" order="958" text="trident emblem"><alt>:trident:</alt></emoticon>
+	<emoticon defaultKey="⚜ " image="269c.png" order="959" text="fleur-de-lis"><alt>:fleur-de-lis:</alt></emoticon>
+	<emoticon defaultKey="〽 " image="303d.png" order="960" text="part alternation mark"><alt>:part_alternation_mark:</alt></emoticon>
+	<emoticon defaultKey="⚠ " image="26a0.png" order="961" text="warning sign"><alt>:warning:</alt></emoticon>
+	<emoticon defaultKey="🚸" image="1f6b8.png" order="962" text="children crossing"><alt>:children_crossing:</alt></emoticon>
+	<emoticon defaultKey="🔰" image="1f530.png" order="963" text="japanese symbol for beginner"><alt>:beginner:</alt></emoticon>
+	<emoticon defaultKey="♻ " image="267b.png" order="964" text="black universal recycling symbol"><alt>:recycle:</alt></emoticon>
+	<emoticon defaultKey="🈯" image="1f22f.png" order="965" text="squared cjk unified ideograph-6307"><alt>:u6307:</alt></emoticon>
+	<emoticon defaultKey="💹" image="1f4b9.png" order="966" text="chart with upwards trend and yen sign"><alt>:chart:</alt></emoticon>
+	<emoticon defaultKey="❇ " image="2747.png" order="967" text="sparkle"><alt>:sparkle:</alt></emoticon>
+	<emoticon defaultKey="✳ " image="2733.png" order="968" text="eight spoked asterisk"><alt>:eight_spoked_asterisk:</alt></emoticon>
+	<emoticon defaultKey="❎ " image="274e.png" order="969" text="negative squared cross mark"><alt>:negative_squared_cross_mark:</alt></emoticon>
+	<emoticon defaultKey="✅ " image="2705.png" order="970" text="white heavy check mark"><alt>:white_check_mark:</alt></emoticon>
+	<emoticon defaultKey="💠" image="1f4a0.png" order="971" text="diamond shape with a dot inside"><alt>:diamond_shape_with_a_dot_inside:</alt></emoticon>
+	<emoticon defaultKey="🌀" image="1f300.png" order="972" text="cyclone"><alt>:cyclone:</alt></emoticon>
+	<emoticon defaultKey="➿ " image="27bf.png" order="973" text="double curly loop"><alt>:loop:</alt></emoticon>
+	<emoticon defaultKey="🌐" image="1f310.png" order="974" text="globe with meridians"><alt>:globe_with_meridians:</alt></emoticon>
+	<emoticon defaultKey="Ⓜ " image="24c2.png" order="975" text="circled latin capital letter m"><alt>:m:</alt></emoticon>
+	<emoticon defaultKey="🏧" image="1f3e7.png" order="976" text="automated teller machine"><alt>:atm:</alt></emoticon>
+	<emoticon defaultKey="🈂" image="1f202.png" order="977" text="squared katakana sa"><alt>:sa:</alt></emoticon>
+	<emoticon defaultKey="🛂" image="1f6c2.png" order="978" text="passport control"><alt>:passport_control:</alt></emoticon>
+	<emoticon defaultKey="🛃" image="1f6c3.png" order="979" text="customs"><alt>:customs:</alt></emoticon>
+	<emoticon defaultKey="🛄" image="1f6c4.png" order="980" text="baggage claim"><alt>:baggage_claim:</alt></emoticon>
+	<emoticon defaultKey="🛅" image="1f6c5.png" order="981" text="left luggage"><alt>:left_luggage:</alt></emoticon>
+	<emoticon defaultKey="♿ " image="267f.png" order="982" text="wheelchair symbol"><alt>:wheelchair:</alt></emoticon>
+	<emoticon defaultKey="🚭" image="1f6ad.png" order="983" text="no smoking symbol"><alt>:no_smoking:</alt></emoticon>
+	<emoticon defaultKey="🚾" image="1f6be.png" order="984" text="water closet"><alt>:wc:</alt></emoticon>
+	<emoticon defaultKey="🅿" image="1f17f.png" order="985" text="negative squared latin capital letter p"><alt>:parking:</alt></emoticon>
+	<emoticon defaultKey="🚰" image="1f6b0.png" order="986" text="potable water symbol"><alt>:potable_water:</alt></emoticon>
+	<emoticon defaultKey="🚹" image="1f6b9.png" order="987" text="mens symbol"><alt>:mens:</alt></emoticon>
+	<emoticon defaultKey="🚺" image="1f6ba.png" order="988" text="womens symbol"><alt>:womens:</alt></emoticon>
+	<emoticon defaultKey="🚼" image="1f6bc.png" order="989" text="baby symbol"><alt>:baby_symbol:</alt></emoticon>
+	<emoticon defaultKey="🚻" image="1f6bb.png" order="990" text="restroom"><alt>:restroom:</alt></emoticon>
+	<emoticon defaultKey="🚮" image="1f6ae.png" order="991" text="put litter in its place symbol"><alt>:put_litter_in_its_place:</alt></emoticon>
+	<emoticon defaultKey="🎦" image="1f3a6.png" order="992" text="cinema"><alt>:cinema:</alt></emoticon>
+	<emoticon defaultKey="📶" image="1f4f6.png" order="993" text="antenna with bars"><alt>:signal_strength:</alt></emoticon>
+	<emoticon defaultKey="🈁" image="1f201.png" order="994" text="squared katakana koko"><alt>:koko:</alt></emoticon>
+	<emoticon defaultKey="🆖" image="1f196.png" order="995" text="squared ng"><alt>:ng:</alt></emoticon>
+	<emoticon defaultKey="🆗" image="1f197.png" order="996" text="squared ok"><alt>:ok:</alt></emoticon>
+	<emoticon defaultKey="🆙" image="1f199.png" order="997" text="squared up with exclamation mark"><alt>:up:</alt></emoticon>
+	<emoticon defaultKey="🆒" image="1f192.png" order="998" text="squared cool"><alt>:cool:</alt></emoticon>
+	<emoticon defaultKey="🆕" image="1f195.png" order="999" text="squared new"><alt>:new:</alt></emoticon>
+	<emoticon defaultKey="🆓" image="1f193.png" order="1000" text="squared free"><alt>:free:</alt></emoticon>
+	<emoticon defaultKey="0⃣" image="30-20e3.png" order="1001" text="keycap digit zero"><alt>:zero:</alt></emoticon>
+	<emoticon defaultKey="1⃣" image="31-20e3.png" order="1002" text="keycap digit one"><alt>:one:</alt></emoticon>
+	<emoticon defaultKey="2⃣" image="32-20e3.png" order="1003" text="keycap digit two"><alt>:two:</alt></emoticon>
+	<emoticon defaultKey="3⃣" image="33-20e3.png" order="1004" text="keycap digit three"><alt>:three:</alt></emoticon>
+	<emoticon defaultKey="4⃣" image="34-20e3.png" order="1005" text="keycap digit four"><alt>:four:</alt></emoticon>
+	<emoticon defaultKey="5⃣" image="35-20e3.png" order="1006" text="keycap digit five"><alt>:five:</alt></emoticon>
+	<emoticon defaultKey="6⃣" image="36-20e3.png" order="1007" text="keycap digit six"><alt>:six:</alt></emoticon>
+	<emoticon defaultKey="7⃣" image="37-20e3.png" order="1008" text="keycap digit seven"><alt>:seven:</alt></emoticon>
+	<emoticon defaultKey="8⃣" image="38-20e3.png" order="1009" text="keycap digit eight"><alt>:eight:</alt></emoticon>
+	<emoticon defaultKey="9⃣" image="39-20e3.png" order="1010" text="keycap digit nine"><alt>:nine:</alt></emoticon>
+	<emoticon defaultKey="🔟" image="1f51f.png" order="1011" text="keycap ten"><alt>:ten:</alt></emoticon>
+	<emoticon defaultKey="🔢" image="1f522.png" order="1012" text="input symbol for numbers"><alt>:1234:</alt></emoticon>
+	<emoticon defaultKey="▶ " image="25b6.png" order="1013" text="black right-pointing triangle"><alt>:arrow_forward:</alt></emoticon>
+	<emoticon defaultKey="⏸ " image="23f8.png" order="1014" text="double vertical bar"><alt>:pause_button:</alt></emoticon>
+	<emoticon defaultKey="⏯ " image="23ef.png" order="1015" text="black right-pointing double triangle with double vertical bar"><alt>:play_pause:</alt></emoticon>
+	<emoticon defaultKey="⏹ " image="23f9.png" order="1016" text="black square for stop"><alt>:stop_button:</alt></emoticon>
+	<emoticon defaultKey="⏺ " image="23fa.png" order="1017" text="black circle for record"><alt>:record_button:</alt></emoticon>
+	<emoticon defaultKey="⏭ " image="23ed.png" order="1018" text="black right-pointing double triangle with vertical bar"><alt>:track_next:</alt></emoticon>
+	<emoticon defaultKey="⏮ " image="23ee.png" order="1019" text="black left-pointing double triangle with vertical bar"><alt>:track_previous:</alt></emoticon>
+	<emoticon defaultKey="⏩ " image="23e9.png" order="1020" text="black right-pointing double triangle"><alt>:fast_forward:</alt></emoticon>
+	<emoticon defaultKey="⏪ " image="23ea.png" order="1021" text="black left-pointing double triangle"><alt>:rewind:</alt></emoticon>
+	<emoticon defaultKey="🔀" image="1f500.png" order="1022" text="twisted rightwards arrows"><alt>:twisted_rightwards_arrows:</alt></emoticon>
+	<emoticon defaultKey="🔁" image="1f501.png" order="1023" text="clockwise rightwards and leftwards open circle arrows"><alt>:repeat:</alt></emoticon>
+	<emoticon defaultKey="🔂" image="1f502.png" order="1024" text="clockwise rightwards and leftwards open circle arrows with circled one overlay"><alt>:repeat_one:</alt></emoticon>
+	<emoticon defaultKey="◀ " image="25c0.png" order="1025" text="black left-pointing triangle"><alt>:arrow_backward:</alt></emoticon>
+	<emoticon defaultKey="🔼" image="1f53c.png" order="1026" text="up-pointing small red triangle"><alt>:arrow_up_small:</alt></emoticon>
+	<emoticon defaultKey="🔽" image="1f53d.png" order="1027" text="down-pointing small red triangle"><alt>:arrow_down_small:</alt></emoticon>
+	<emoticon defaultKey="⏫ " image="23eb.png" order="1028" text="black up-pointing double triangle"><alt>:arrow_double_up:</alt></emoticon>
+	<emoticon defaultKey="⏬ " image="23ec.png" order="1029" text="black down-pointing double triangle"><alt>:arrow_double_down:</alt></emoticon>
+	<emoticon defaultKey="➡ " image="27a1.png" order="1030" text="black rightwards arrow"><alt>:arrow_right:</alt></emoticon>
+	<emoticon defaultKey="⬅ " image="2b05.png" order="1031" text="leftwards black arrow"><alt>:arrow_left:</alt></emoticon>
+	<emoticon defaultKey="⬆ " image="2b06.png" order="1032" text="upwards black arrow"><alt>:arrow_up:</alt></emoticon>
+	<emoticon defaultKey="⬇ " image="2b07.png" order="1033" text="downwards black arrow"><alt>:arrow_down:</alt></emoticon>
+	<emoticon defaultKey="↗ " image="2197.png" order="1034" text="north east arrow"><alt>:arrow_upper_right:</alt></emoticon>
+	<emoticon defaultKey="↘ " image="2198.png" order="1035" text="south east arrow"><alt>:arrow_lower_right:</alt></emoticon>
+	<emoticon defaultKey="↙ " image="2199.png" order="1036" text="south west arrow"><alt>:arrow_lower_left:</alt></emoticon>
+	<emoticon defaultKey="↖ " image="2196.png" order="1037" text="north west arrow"><alt>:arrow_upper_left:</alt></emoticon>
+	<emoticon defaultKey="↕ " image="2195.png" order="1038" text="up down arrow"><alt>:arrow_up_down:</alt></emoticon>
+	<emoticon defaultKey="↔ " image="2194.png" order="1039" text="left right arrow"><alt>:left_right_arrow:</alt></emoticon>
+	<emoticon defaultKey="🔄" image="1f504.png" order="1040" text="anticlockwise downwards and upwards open circle arrows"><alt>:arrows_counterclockwise:</alt></emoticon>
+	<emoticon defaultKey="↪ " image="21aa.png" order="1041" text="rightwards arrow with hook"><alt>:arrow_right_hook:</alt></emoticon>
+	<emoticon defaultKey="↩ " image="21a9.png" order="1042" text="leftwards arrow with hook"><alt>:leftwards_arrow_with_hook:</alt></emoticon>
+	<emoticon defaultKey="⤴ " image="2934.png" order="1043" text="arrow pointing rightwards then curving upwards"><alt>:arrow_heading_up:</alt></emoticon>
+	<emoticon defaultKey="⤵ " image="2935.png" order="1044" text="arrow pointing rightwards then curving downwards"><alt>:arrow_heading_down:</alt></emoticon>
+	<emoticon defaultKey="#⃣" image="23-20e3.png" order="1045" text="keycap number sign"><alt>:hash:</alt></emoticon>
+	<emoticon defaultKey="*⃣" image="2a-20e3.png" order="1046" text="keycap asterisk"><alt>:asterisk:</alt></emoticon>
+	<emoticon defaultKey="ℹ " image="2139.png" order="1047" text="information source"><alt>:information_source:</alt></emoticon>
+	<emoticon defaultKey="🔤" image="1f524.png" order="1048" text="input symbol for latin letters"><alt>:abc:</alt></emoticon>
+	<emoticon defaultKey="🔡" image="1f521.png" order="1049" text="input symbol for latin small letters"><alt>:abcd:</alt></emoticon>
+	<emoticon defaultKey="🔠" image="1f520.png" order="1050" text="input symbol for latin capital letters"><alt>:capital_abcd:</alt></emoticon>
+	<emoticon defaultKey="🔣" image="1f523.png" order="1051" text="input symbol for symbols"><alt>:symbols:</alt></emoticon>
+	<emoticon defaultKey="🎵" image="1f3b5.png" order="1052" text="musical note"><alt>:musical_note:</alt></emoticon>
+	<emoticon defaultKey="🎶" image="1f3b6.png" order="1053" text="multiple musical notes"><alt>:notes:</alt></emoticon>
+	<emoticon defaultKey="〰 " image="3030.png" order="1054" text="wavy dash"><alt>:wavy_dash:</alt></emoticon>
+	<emoticon defaultKey="➰ " image="27b0.png" order="1055" text="curly loop"><alt>:curly_loop:</alt></emoticon>
+	<emoticon defaultKey="🔃" image="1f503.png" order="1057" text="clockwise downwards and upwards open circle arrows"><alt>:arrows_clockwise:</alt></emoticon>
+	<emoticon defaultKey="➕ " image="2795.png" order="1058" text="heavy plus sign"><alt>:heavy_plus_sign:</alt></emoticon>
+	<emoticon defaultKey="➖ " image="2796.png" order="1059" text="heavy minus sign"><alt>:heavy_minus_sign:</alt></emoticon>
+	<emoticon defaultKey="➗ " image="2797.png" order="1060" text="heavy division sign"><alt>:heavy_division_sign:</alt></emoticon>
+	<emoticon defaultKey="✖ " image="2716.png" order="1061" text="heavy multiplication x"><alt>:heavy_multiplication_x:</alt></emoticon>
+	<emoticon defaultKey="💲" image="1f4b2.png" order="1062" text="heavy dollar sign"><alt>:heavy_dollar_sign:</alt></emoticon>
+	<emoticon defaultKey="💱" image="1f4b1.png" order="1063" text="currency exchange"><alt>:currency_exchange:</alt></emoticon>
+	<emoticon defaultKey="© " image="00a9.png" order="1064" text="copyright sign"><alt>:copyright:</alt></emoticon>
+	<emoticon defaultKey="® " image="00ae.png" order="1065" text="registered sign"><alt>:registered:</alt></emoticon>
+	<emoticon defaultKey="™ " image="2122.png" order="1066" text="trade mark sign"><alt>:tm:</alt></emoticon>
+	<emoticon defaultKey="🔚" image="1f51a.png" order="1067" text="end with leftwards arrow above"><alt>:end:</alt></emoticon>
+	<emoticon defaultKey="🔙" image="1f519.png" order="1068" text="back with leftwards arrow above"><alt>:back:</alt></emoticon>
+	<emoticon defaultKey="🔛" image="1f51b.png" order="1069" text="on with exclamation mark with left right arrow abo"><alt>:on:</alt></emoticon>
+	<emoticon defaultKey="🔝" image="1f51d.png" order="1070" text="top with upwards arrow above"><alt>:top:</alt></emoticon>
+	<emoticon defaultKey="🔜" image="1f51c.png" order="1071" text="soon with rightwards arrow above"><alt>:soon:</alt></emoticon>
+	<emoticon defaultKey="☑ " image="2611.png" order="1072" text="ballot box with check"><alt>:ballot_box_with_check:</alt></emoticon>
+	<emoticon defaultKey="🔘" image="1f518.png" order="1073" text="radio button"><alt>:radio_button:</alt></emoticon>
+	<emoticon defaultKey="⚪ " image="26aa.png" order="1074" text="medium white circle"><alt>:white_circle:</alt></emoticon>
+	<emoticon defaultKey="⚫ " image="26ab.png" order="1075" text="medium black circle"><alt>:black_circle:</alt></emoticon>
+	<emoticon defaultKey="🔴" image="1f534.png" order="1076" text="large red circle"><alt>:red_circle:</alt></emoticon>
+	<emoticon defaultKey="🔵" image="1f535.png" order="1077" text="large blue circle"><alt>:large_blue_circle:</alt></emoticon>
+	<emoticon defaultKey="🔸" image="1f538.png" order="1078" text="small orange diamond"><alt>:small_orange_diamond:</alt></emoticon>
+	<emoticon defaultKey="🔹" image="1f539.png" order="1079" text="small blue diamond"><alt>:small_blue_diamond:</alt></emoticon>
+	<emoticon defaultKey="🔶" image="1f536.png" order="1080" text="large orange diamond"><alt>:large_orange_diamond:</alt></emoticon>
+	<emoticon defaultKey="🔷" image="1f537.png" order="1081" text="large blue diamond"><alt>:large_blue_diamond:</alt></emoticon>
+	<emoticon defaultKey="🔺" image="1f53a.png" order="1082" text="up-pointing red triangle"><alt>:small_red_triangle:</alt></emoticon>
+	<emoticon defaultKey="▪ " image="25aa.png" order="1083" text="black small square"><alt>:black_small_square:</alt></emoticon>
+	<emoticon defaultKey="▫ " image="25ab.png" order="1084" text="white small square"><alt>:white_small_square:</alt></emoticon>
+	<emoticon defaultKey="⬛ " image="2b1b.png" order="1085" text="black large square"><alt>:black_large_square:</alt></emoticon>
+	<emoticon defaultKey="⬜ " image="2b1c.png" order="1086" text="white large square"><alt>:white_large_square:</alt></emoticon>
+	<emoticon defaultKey="🔻" image="1f53b.png" order="1087" text="down-pointing red triangle"><alt>:small_red_triangle_down:</alt></emoticon>
+	<emoticon defaultKey="◼ " image="25fc.png" order="1088" text="black medium square"><alt>:black_medium_square:</alt></emoticon>
+	<emoticon defaultKey="◻ " image="25fb.png" order="1089" text="white medium square"><alt>:white_medium_square:</alt></emoticon>
+	<emoticon defaultKey="◾ " image="25fe.png" order="1090" text="black medium small square"><alt>:black_medium_small_square:</alt></emoticon>
+	<emoticon defaultKey="◽ " image="25fd.png" order="1091" text="white medium small square"><alt>:white_medium_small_square:</alt></emoticon>
+	<emoticon defaultKey="🔲" image="1f532.png" order="1092" text="black square button"><alt>:black_square_button:</alt></emoticon>
+	<emoticon defaultKey="🔳" image="1f533.png" order="1093" text="white square button"><alt>:white_square_button:</alt></emoticon>
+	<emoticon defaultKey="🔈" image="1f508.png" order="1094" text="speaker"><alt>:speaker:</alt></emoticon>
+	<emoticon defaultKey="🔉" image="1f509.png" order="1095" text="speaker with one sound wave"><alt>:sound:</alt></emoticon>
+	<emoticon defaultKey="🔊" image="1f50a.png" order="1096" text="speaker with three sound waves"><alt>:loud_sound:</alt></emoticon>
+	<emoticon defaultKey="🔇" image="1f507.png" order="1097" text="speaker with cancellation stroke"><alt>:mute:</alt></emoticon>
+	<emoticon defaultKey="📣" image="1f4e3.png" order="1098" text="cheering megaphone"><alt>:mega:</alt></emoticon>
+	<emoticon defaultKey="📢" image="1f4e2.png" order="1099" text="public address loudspeaker"><alt>:loudspeaker:</alt></emoticon>
+	<emoticon defaultKey="🔔" image="1f514.png" order="1100" text="bell"><alt>:bell:</alt></emoticon>
+	<emoticon defaultKey="🔕" image="1f515.png" order="1101" text="bell with cancellation stroke"><alt>:no_bell:</alt></emoticon>
+	<emoticon defaultKey="🃏" image="1f0cf.png" order="1102" text="playing card black joker"><alt>:black_joker:</alt></emoticon>
+	<emoticon defaultKey="🀄" image="1f004.png" order="1103" text="mahjong tile red dragon"><alt>:mahjong:</alt></emoticon>
+	<emoticon defaultKey="♠ " image="2660.png" order="1104" text="black spade suit"><alt>:spades:</alt></emoticon>
+	<emoticon defaultKey="♣ " image="2663.png" order="1105" text="black club suit"><alt>:clubs:</alt></emoticon>
+	<emoticon defaultKey="♥ " image="2665.png" order="1106" text="black heart suit"><alt>:hearts:</alt></emoticon>
+	<emoticon defaultKey="♦ " image="2666.png" order="1107" text="black diamond suit"><alt>:diamonds:</alt></emoticon>
+	<emoticon defaultKey="🎴" image="1f3b4.png" order="1108" text="flower playing cards"><alt>:flower_playing_cards:</alt></emoticon>
+	<emoticon defaultKey="💭" image="1f4ad.png" order="1109" text="thought balloon"><alt>:thought_balloon:</alt></emoticon>
+	<emoticon defaultKey="🗯" image="1f5ef.png" order="1110" text="right anger bubble"><alt>:anger_right:</alt></emoticon>
+	<emoticon defaultKey="💬" image="1f4ac.png" order="1111" text="speech balloon"><alt>:speech_balloon:</alt></emoticon>
+	<emoticon defaultKey="🕐" image="1f550.png" order="1112" text="clock face one oclock"><alt>:clock1:</alt></emoticon>
+	<emoticon defaultKey="🕑" image="1f551.png" order="1113" text="clock face two oclock"><alt>:clock2:</alt></emoticon>
+	<emoticon defaultKey="🕒" image="1f552.png" order="1114" text="clock face three oclock"><alt>:clock3:</alt></emoticon>
+	<emoticon defaultKey="🕓" image="1f553.png" order="1115" text="clock face four oclock"><alt>:clock4:</alt></emoticon>
+	<emoticon defaultKey="🕔" image="1f554.png" order="1116" text="clock face five oclock"><alt>:clock5:</alt></emoticon>
+	<emoticon defaultKey="🕕" image="1f555.png" order="1117" text="clock face six oclock"><alt>:clock6:</alt></emoticon>
+	<emoticon defaultKey="🕖" image="1f556.png" order="1118" text="clock face seven oclock"><alt>:clock7:</alt></emoticon>
+	<emoticon defaultKey="🕗" image="1f557.png" order="1119" text="clock face eight oclock"><alt>:clock8:</alt></emoticon>
+	<emoticon defaultKey="🕘" image="1f558.png" order="1120" text="clock face nine oclock"><alt>:clock9:</alt></emoticon>
+	<emoticon defaultKey="🕙" image="1f559.png" order="1121" text="clock face ten oclock"><alt>:clock10:</alt></emoticon>
+	<emoticon defaultKey="🕚" image="1f55a.png" order="1122" text="clock face eleven oclock"><alt>:clock11:</alt></emoticon>
+	<emoticon defaultKey="🕛" image="1f55b.png" order="1123" text="clock face twelve oclock"><alt>:clock12:</alt></emoticon>
+	<emoticon defaultKey="🕜" image="1f55c.png" order="1124" text="clock face one-thirty"><alt>:clock130:</alt></emoticon>
+	<emoticon defaultKey="🕝" image="1f55d.png" order="1125" text="clock face two-thirty"><alt>:clock230:</alt></emoticon>
+	<emoticon defaultKey="🕞" image="1f55e.png" order="1126" text="clock face three-thirty"><alt>:clock330:</alt></emoticon>
+	<emoticon defaultKey="🕟" image="1f55f.png" order="1127" text="clock face four-thirty"><alt>:clock430:</alt></emoticon>
+	<emoticon defaultKey="🕠" image="1f560.png" order="1128" text="clock face five-thirty"><alt>:clock530:</alt></emoticon>
+	<emoticon defaultKey="🕡" image="1f561.png" order="1129" text="clock face six-thirty"><alt>:clock630:</alt></emoticon>
+	<emoticon defaultKey="🕢" image="1f562.png" order="1130" text="clock face seven-thirty"><alt>:clock730:</alt></emoticon>
+	<emoticon defaultKey="🕣" image="1f563.png" order="1131" text="clock face eight-thirty"><alt>:clock830:</alt></emoticon>
+	<emoticon defaultKey="🕤" image="1f564.png" order="1132" text="clock face nine-thirty"><alt>:clock930:</alt></emoticon>
+	<emoticon defaultKey="🕥" image="1f565.png" order="1133" text="clock face ten-thirty"><alt>:clock1030:</alt></emoticon>
+	<emoticon defaultKey="🕦" image="1f566.png" order="1134" text="clock face eleven-thirty"><alt>:clock1130:</alt></emoticon>
+	<emoticon defaultKey="🕧" image="1f567.png" order="1135" text="clock face twelve-thirty"><alt>:clock1230:</alt></emoticon>
+	<emoticon defaultKey="🇨🇳" image="1f1e8-1f1f3.png" order="1177" text="china"><alt>:flag_cn:</alt></emoticon>
+	<emoticon defaultKey="🇩🇪" image="1f1e9-1f1ea.png" order="1207" text="germany"><alt>:flag_de:</alt></emoticon>
+	<emoticon defaultKey="🇮🇹" image="1f1ee-1f1f9.png" order="1229" text="italy"><alt>:flag_it:</alt></emoticon>
+	<emoticon defaultKey="🇯🇵" image="1f1ef-1f1f5.png" order="1232" text="japan"><alt>:flag_jp:</alt></emoticon>
+	<emoticon defaultKey="🇷🇺" image="1f1f7-1f1fa.png" order="1297" text="russia"><alt>:flag_ru:</alt></emoticon>
+	<emoticon defaultKey="🇰🇷" image="1f1f0-1f1f7.png" order="1317" text="korea"><alt>:flag_kr:</alt></emoticon>
+	<emoticon defaultKey="🇪🇸" image="1f1ea-1f1f8.png" order="1318" text="spain"><alt>:flag_es:</alt></emoticon>
+	<emoticon defaultKey="🇬🇧" image="1f1ec-1f1e7.png" order="1341" text="great britain"><alt>:flag_gb:</alt></emoticon>
+	<emoticon defaultKey="🇺🇸" image="1f1fa-1f1f8.png" order="1342" text="united states"><alt>:flag_us:</alt></emoticon>
+</emoticons>
